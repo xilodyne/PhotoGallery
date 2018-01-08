@@ -23,7 +23,7 @@ hsqldb-2.4.0	(hsqldb.org)
 All Java development (above) is done in eclipse-jee-oxygen on Windows 10 Pro.
 
 
-## Adding a description and author to the photo
+## Adding a description and author to photo
 
 PhotoGallery scripts read the jpeg exif data.  
 
