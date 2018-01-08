@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+<rdf:Description rdf:about='///var/opt/Shared/Photos/Places/Europe/EU-CH-Switzerland/EU-CH-Matterhorn/20060723-ViewEast_Zermatt.jpg'
+  xmlns:et='http://ns.exiftool.ca/1.0/' et:toolkit='Image::ExifTool 10.02'
+  xmlns:ExifTool='http://ns.exiftool.ca/ExifTool/1.0/'
+  xmlns:System='http://ns.exiftool.ca/File/System/1.0/'
+  xmlns:File='http://ns.exiftool.ca/File/1.0/'
+  xmlns:JFIF='http://ns.exiftool.ca/JFIF/JFIF/1.0/'
+  xmlns:Adobe='http://ns.exiftool.ca/APP14/Adobe/1.0/'
+  xmlns:IFD0='http://ns.exiftool.ca/EXIF/IFD0/1.0/'
+  xmlns:ExifIFD='http://ns.exiftool.ca/EXIF/ExifIFD/1.0/'
+  xmlns:IFD1='http://ns.exiftool.ca/EXIF/IFD1/1.0/'
+  xmlns:Photoshop='http://ns.exiftool.ca/Photoshop/Photoshop/1.0/'
+  xmlns:XMP-x='http://ns.exiftool.ca/XMP/XMP-x/1.0/'
+  xmlns:XMP-xmpMM='http://ns.exiftool.ca/XMP/XMP-xmpMM/1.0/'
+  xmlns:XMP-dc='http://ns.exiftool.ca/XMP/XMP-dc/1.0/'
+  xmlns:ICC-header='http://ns.exiftool.ca/ICC_Profile/ICC-header/1.0/'
+  xmlns:ICC_Profile='http://ns.exiftool.ca/ICC_Profile/ICC_Profile/1.0/'
+  xmlns:ICC-view='http://ns.exiftool.ca/ICC_Profile/ICC-view/1.0/'
+  xmlns:ICC-meas='http://ns.exiftool.ca/ICC_Profile/ICC-meas/1.0/'
+  xmlns:Composite='http://ns.exiftool.ca/Composite/1.0/'>
+ <ExifTool:ExifToolVersion>10.02</ExifTool:ExifToolVersion>
+ <System:FileName>20060723-ViewEast_Zermatt.jpg</System:FileName>
+ <System:Directory>///var/opt/Shared/Photos/Places/Europe/EU-CH-Switzerland/EU-CH-Matterhorn</System:Directory>
+ <System:FileSize>1188 kB</System:FileSize>
+ <System:FileModifyDate>2015:10:17 00:42:13-07:00</System:FileModifyDate>
+ <System:FileAccessDate>2015:10:17 00:55:54-07:00</System:FileAccessDate>
+ <System:FileInodeChangeDate>2015:10:17 00:56:06-07:00</System:FileInodeChangeDate>
+ <System:FilePermissions>rwx------</System:FilePermissions>
+ <File:FileType>JPEG</File:FileType>
+ <File:FileTypeExtension>jpg</File:FileTypeExtension>
+ <File:MIMEType>image/jpeg</File:MIMEType>
+ <File:ExifByteOrder>Big-endian (Motorola, MM)</File:ExifByteOrder>
+ <File:ImageWidth>1908</File:ImageWidth>
+ <File:ImageHeight>1267</File:ImageHeight>
+ <File:EncodingProcess>Baseline DCT, Huffman coding</File:EncodingProcess>
+ <File:BitsPerSample>8</File:BitsPerSample>
+ <File:ColorComponents>3</File:ColorComponents>
+ <File:YCbCrSubSampling>YCbCr4:4:4 (1 1)</File:YCbCrSubSampling>
+ <JFIF:JFIFVersion>1.02</JFIF:JFIFVersion>
+ <JFIF:ResolutionUnit>inches</JFIF:ResolutionUnit>
+ <JFIF:XResolution>300</JFIF:XResolution>
+ <JFIF:YResolution>300</JFIF:YResolution>
+ <Adobe:DCTEncodeVersion>100</Adobe:DCTEncodeVersion>
+ <Adobe:APP14Flags0>(none)</Adobe:APP14Flags0>
+ <Adobe:APP14Flags1>(none)</Adobe:APP14Flags1>
+ <Adobe:ColorTransform>YCbCr</Adobe:ColorTransform>
+ <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
+ <IFD0:XResolution>300</IFD0:XResolution>
+ <IFD0:YResolution>300</IFD0:YResolution>
+ <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
+ <IFD0:Software>Adobe Photoshop 7.0</IFD0:Software>
+ <IFD0:ModifyDate>2006:09:01 10:55:22</IFD0:ModifyDate>
+ <IFD0:Artist>Austin Davis Holiday</IFD0:Artist>
+ <IFD0:XPComment>Matterhorn Obersvation point; Brian King, Austin Davis Holiday; Switzerland</IFD0:XPComment>
+ <IFD0:XPAuthor>Austin Davis Holiday</IFD0:XPAuthor>
+ <IFD0:Padding>(Binary data 1896 bytes, use -b option to extract)</IFD0:Padding>
+ <ExifIFD:ColorSpace>sRGB</ExifIFD:ColorSpace>
+ <ExifIFD:ExifImageWidth>1908</ExifIFD:ExifImageWidth>
+ <ExifIFD:ExifImageHeight>1267</ExifIFD:ExifImageHeight>
+ <ExifIFD:Padding>(Binary data 2060 bytes, use -b option to extract)</ExifIFD:Padding>
+ <IFD1:Compression>JPEG (old-style)</IFD1:Compression>
+ <IFD1:XResolution>72</IFD1:XResolution>
+ <IFD1:YResolution>72</IFD1:YResolution>
+ <IFD1:ResolutionUnit>inches</IFD1:ResolutionUnit>
+ <IFD1:ThumbnailOffset>4614</IFD1:ThumbnailOffset>
+ <IFD1:ThumbnailLength>4154</IFD1:ThumbnailLength>
+ <Photoshop:IPTCDigest>00000000000000000000000000000000</Photoshop:IPTCDigest>
+ <Photoshop:XResolution>300</Photoshop:XResolution>
+ <Photoshop:DisplayedUnitsX>inches</Photoshop:DisplayedUnitsX>
+ <Photoshop:YResolution>300</Photoshop:YResolution>
+ <Photoshop:DisplayedUnitsY>inches</Photoshop:DisplayedUnitsY>
+ <Photoshop:GlobalAngle>30</Photoshop:GlobalAngle>
+ <Photoshop:GlobalAltitude>30</Photoshop:GlobalAltitude>
+ <Photoshop:CopyrightFlag>False</Photoshop:CopyrightFlag>
+ <Photoshop:PhotoshopThumbnail>(Binary data 4226 bytes, use -b option to extract)</Photoshop:PhotoshopThumbnail>
+ <Photoshop:PhotoshopQuality>10</Photoshop:PhotoshopQuality>
+ <Photoshop:PhotoshopFormat>Standard</Photoshop:PhotoshopFormat>
+ <Photoshop:ProgressiveScans>3 Scans</Photoshop:ProgressiveScans>
+ <XMP-x:XMPToolkit>XMP toolkit 2.8.2-33, framework 1.5</XMP-x:XMPToolkit>
+ <XMP-xmpMM:DocumentID>adobe:docid:photoshop:7c1c7f9a-3992-11db-99a9-8156497a02a3</XMP-xmpMM:DocumentID>
+ <XMP-dc:Creator>Austin Davis Holiday</XMP-dc:Creator>
+ <ICC-header:ProfileCMMType>Lino</ICC-header:ProfileCMMType>
+ <ICC-header:ProfileVersion>2.1.0</ICC-header:ProfileVersion>
+ <ICC-header:ProfileClass>Display Device Profile</ICC-header:ProfileClass>
+ <ICC-header:ColorSpaceData>RGB </ICC-header:ColorSpaceData>
+ <ICC-header:ProfileConnectionSpace>XYZ </ICC-header:ProfileConnectionSpace>
+ <ICC-header:ProfileDateTime>1998:02:09 06:49:00</ICC-header:ProfileDateTime>
+ <ICC-header:ProfileFileSignature>acsp</ICC-header:ProfileFileSignature>
+ <ICC-header:PrimaryPlatform>Microsoft Corporation</ICC-header:PrimaryPlatform>
+ <ICC-header:CMMFlags>Not Embedded, Independent</ICC-header:CMMFlags>
+ <ICC-header:DeviceManufacturer>IEC </ICC-header:DeviceManufacturer>
+ <ICC-header:DeviceModel>sRGB</ICC-header:DeviceModel>
+ <ICC-header:DeviceAttributes>Reflective, Glossy, Positive, Color</ICC-header:DeviceAttributes>
+ <ICC-header:RenderingIntent>Perceptual</ICC-header:RenderingIntent>
+ <ICC-header:ConnectionSpaceIlluminant>0.9642 1 0.82491</ICC-header:ConnectionSpaceIlluminant>
+ <ICC-header:ProfileCreator>HP  </ICC-header:ProfileCreator>
+ <ICC-header:ProfileID>0</ICC-header:ProfileID>
+ <ICC_Profile:ProfileCopyright>Copyright (c) 1998 Hewlett-Packard Company</ICC_Profile:ProfileCopyright>
+ <ICC_Profile:ProfileDescription>sRGB IEC61966-2.1</ICC_Profile:ProfileDescription>
+ <ICC_Profile:MediaWhitePoint>0.95045 1 1.08905</ICC_Profile:MediaWhitePoint>
+ <ICC_Profile:MediaBlackPoint>0 0 0</ICC_Profile:MediaBlackPoint>
+ <ICC_Profile:RedMatrixColumn>0.43607 0.22249 0.01392</ICC_Profile:RedMatrixColumn>
+ <ICC_Profile:GreenMatrixColumn>0.38515 0.71687 0.09708</ICC_Profile:GreenMatrixColumn>
+ <ICC_Profile:BlueMatrixColumn>0.14307 0.06061 0.7141</ICC_Profile:BlueMatrixColumn>
+ <ICC_Profile:DeviceMfgDesc>IEC http://www.iec.ch</ICC_Profile:DeviceMfgDesc>
+ <ICC_Profile:DeviceModelDesc>IEC 61966-2.1 Default RGB colour space - sRGB</ICC_Profile:DeviceModelDesc>
+ <ICC_Profile:ViewingCondDesc>Reference Viewing Condition in IEC61966-2.1</ICC_Profile:ViewingCondDesc>
+ <ICC_Profile:Luminance>76.03647 80 87.12462</ICC_Profile:Luminance>
+ <ICC_Profile:Technology>Cathode Ray Tube Display</ICC_Profile:Technology>
+ <ICC_Profile:RedTRC>(Binary data 2060 bytes, use -b option to extract)</ICC_Profile:RedTRC>
+ <ICC_Profile:GreenTRC>(Binary data 2060 bytes, use -b option to extract)</ICC_Profile:GreenTRC>
+ <ICC_Profile:BlueTRC>(Binary data 2060 bytes, use -b option to extract)</ICC_Profile:BlueTRC>
+ <ICC-view:ViewingCondIlluminant>19.6445 20.3718 16.8089</ICC-view:ViewingCondIlluminant>
+ <ICC-view:ViewingCondSurround>3.92889 4.07439 3.36179</ICC-view:ViewingCondSurround>
+ <ICC-view:ViewingCondIlluminantType>D50</ICC-view:ViewingCondIlluminantType>
+ <ICC-meas:MeasurementObserver>CIE 1931</ICC-meas:MeasurementObserver>
+ <ICC-meas:MeasurementBacking>0 0 0</ICC-meas:MeasurementBacking>
+ <ICC-meas:MeasurementGeometry>Unknown</ICC-meas:MeasurementGeometry>
+ <ICC-meas:MeasurementFlare>0.999%</ICC-meas:MeasurementFlare>
+ <ICC-meas:MeasurementIlluminant>D65</ICC-meas:MeasurementIlluminant>
+ <Composite:ImageSize>1908x1267</Composite:ImageSize>
+ <Composite:Megapixels>2.4</Composite:Megapixels>
+ <Composite:ThumbnailImage>(Binary data 4154 bytes, use -b option to extract)</Composite:ThumbnailImage>
+</rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,161 @@
+package gallery.photo.fileio;
+
+import gallery.photo.globals.Globals;
+import gallery.photo.globals.Logging;
+
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.util.Enumeration;
+import java.util.Hashtable;
+import java.util.Properties;
+
+import org.xml.sax.helpers.DefaultHandler;
+
+
+
+
+
+public class EXIFDataPropertyData extends DefaultHandler {
+	
+	private FileInputStream exifStream = null;
+	private FileInputStream exifXMLStream = null;
+
+	private Properties exifProperties = new Properties();
+	String sGallery;
+	String sPhoto;
+	
+	public Hashtable<?, ?> getEXIF_fromPropFile(String sTempGallery, String sTempPhoto ){
+		
+		sGallery = sTempGallery;
+		int iLocation = sGallery.indexOf(".xml");
+		sGallery = sGallery.substring(0, iLocation);
+
+		sPhoto = sTempPhoto;
+		exifProperties = new Properties();
+		
+		//austin - don't read exif properties file
+		this.readEXIF_FromPropFile();
+		
+		return this.transferDataFromPropFile();
+		
+	}
+	
+	public Hashtable<?, ?> getEXIF_fromDumpXMLFile(String sTempGallery, String sTempPhoto ){
+		sGallery = sTempGallery;
+		int iLocation = sGallery.indexOf(".xml");
+		sGallery = sGallery.substring(0, iLocation);
+
+		sPhoto = sTempPhoto;
+		
+		this.readEXIF_From_EXIFTOOLdump_XML();
+		
+		return this.transferDataFromDumpXMLFile();
+		
+	}
+	
+	/*
+	 * Load the metadata file
+	 *located at: conf/metadata/XMLGallery/Photofile.meta.xml
+	 */
+	private void readEXIF_FromPropFile()  {
+		
+	//	this.getCatalinaHome();
+		StringBuffer sbFileName = new StringBuffer();
+//		sbFileName.append(Globals.CATALINE_HOME);
+		sbFileName.append(Globals.GALLERY_METADATA_FILE_LOCATION);
+		sbFileName.append("/");
+		sbFileName.append(sGallery);
+		sbFileName.append("/");
+		sbFileName.append(sPhoto + ".meta.xml");
+
+		//Output.toConsole("Reading --> " + sbFileName.toString() );
+		try {
+			this.exifStream = new FileInputStream(sbFileName.toString());
+			Logging.info(this.getClass().getName(), "Loading from prop file: " + sbFileName.toString());
+
+			exifProperties.loadFromXML(this.exifStream);
+			Logging.info(this.getClass().getName(), "Loaded size: " + exifProperties.size());
+
+			this.exifStream.close();
+		} catch (IOException e) {
+			Logging.error(e);
+		} 
+	}
+	
+	/*
+	 * Load the metadata file
+	 *located at: conf/metadata/XMLGallery/Photofile.meta.xml
+	 */
+	private void readEXIF_From_EXIFTOOLdump_XML()  {
+		
+	//	this.getCatalinaHome();
+		StringBuffer sbFileName = new StringBuffer();
+//		sbFileName.append(Globals.CATALINE_HOME);
+		sbFileName.append(Globals.GALLERY_METADATA_FILE_LOCATION);
+		sbFileName.append("/");
+		sbFileName.append(sGallery);
+		sbFileName.append("/");
+		sbFileName.append(sPhoto + ".exiftool.xml");
+
+		//Output.toConsole("Reading --> " + sbFileName.toString() );
+		try {
+			this.exifXMLStream = new FileInputStream(sbFileName.toString());
+			Logging.info(this.getClass().getName(), "Loading from dump xml file: " + sbFileName.toString());
+
+			//exifProperties.loadFromXML(this.exifStream);
+			//Logging.info(this.getClass().getName(), "Loaded size: " + exifProperties.size());
+
+			this.exifXMLStream.close();
+		} catch (IOException e) {
+			Logging.error(e);
+		} 
+	}
+	
+	
+	private Hashtable<String,String> transferDataFromPropFile() {
+		Hashtable<String, String> exif = new Hashtable<String, String>();
+		Logging.info(this.getClass().getName(), "New EXIF hashtable with:" + this.exifProperties.size());
+		Enumeration<?> loop = this.exifProperties.propertyNames();
+		Logging.info(this.getClass().getName(), "Loop has data: " + loop.hasMoreElements());
+		
+		while (loop.hasMoreElements()) {
+			String sTempKey = (String)loop.nextElement();
+			String sTempValue = this.exifProperties.getProperty(sTempKey);
+			System.out.println("Key:" + sTempKey + ", Value: " + sTempValue);
+			if ((sTempValue != null) && (sTempValue.length() >0 )) {
+				exif.put( sTempKey, sTempValue );
+			}
+		}
+		
+		return exif;
+	}
+	
+	private Hashtable<String,String> transferDataFromDumpXMLFile() {
+		Hashtable<String, String> exif = new Hashtable<String, String>();
+		Logging.info(this.getClass().getName(), "New EXIF hashtable with:" + this.exifProperties.size());
+		Enumeration<?> loop = this.exifProperties.propertyNames();
+		Logging.info(this.getClass().getName(), "Loop has data: " + loop.hasMoreElements());
+		
+		while (loop.hasMoreElements()) {
+			String sTempKey = (String)loop.nextElement();
+			String sTempValue = this.exifProperties.getProperty(sTempKey);
+			System.out.println("Key:" + sTempKey + ", Value: " + sTempValue);
+			if ((sTempValue != null) && (sTempValue.length() >0 )) {
+				exif.put( sTempKey, sTempValue );
+			}
+		}
+		
+		return exif;
+	}
+
+/*	//determine catalina.home to find out where our default
+	//file lives
+	private void getCatalinaHome() {
+	//	String sTemp = System.getProperty("catalina.home");
+		String sTemp = System.getProperty("catalina.base");
+		Globals.CATALINE_HOME = sTemp;
+	}
+*/	
+
+
+}

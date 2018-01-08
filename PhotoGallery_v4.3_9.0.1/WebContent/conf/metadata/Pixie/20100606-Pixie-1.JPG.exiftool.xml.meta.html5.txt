@@ -1,0 +1,917 @@
+				<tr>
+					<td class="exifhtml_name">Author</td>
+					<td class="exifhtml_value"><span itemprop="author">Austin Davis Holiday</span></td>
+				</tr>
+
+				<tr><td>
+					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="ExposureTime">
+						<meta itemprop="value" content="1/60">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="FNumber">
+						<meta itemprop="value" content="3.2">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="ExifVersion">
+						<meta itemprop="value" content="0220">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="DateTimeOriginal">
+						<meta itemprop="value" content="2010:06:06 16:31:25">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="CreateDate">
+						<meta itemprop="value" content="2010:06:06 16:31:25">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="ComponentsConfiguration">
+						<meta itemprop="value" content="Y, Cb, Cr, -">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="CompressedBitsPerPixel">
+						<meta itemprop="value" content="5">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="ShutterSpeedValue">
+						<meta itemprop="value" content="1/60">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="ApertureValue">
+						<meta itemprop="value" content="3.2">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="ExposureCompensation">
+						<meta itemprop="value" content="0">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="MaxApertureValue">
+						<meta itemprop="value" content="3.2">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="MeteringMode">
+						<meta itemprop="value" content="Multi-segment">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="Flash">
+						<meta itemprop="value" content="Auto, Fired, Red-eye reduction">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="FocalLength">
+						<meta itemprop="value" content="6.3 mm">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="UserComment">
+						<meta itemprop="value" content="">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="FlashpixVersion">
+						<meta itemprop="value" content="0100">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="ColorSpace">
+						<meta itemprop="value" content="sRGB">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="ExifImageWidth">
+						<meta itemprop="value" content="2592">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="ExifImageHeight">
+						<meta itemprop="value" content="1944">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="FocalPlaneXResolution">
+						<meta itemprop="value" content="11520">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="FocalPlaneYResolution">
+						<meta itemprop="value" content="11571.42857">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="FocalPlaneResolutionUnit">
+						<meta itemprop="value" content="inches">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="SensingMethod">
+						<meta itemprop="value" content="One-chip color area">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="FileSource">
+						<meta itemprop="value" content="Digital Camera">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="CustomRendered">
+						<meta itemprop="value" content="Normal">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="ExposureMode">
+						<meta itemprop="value" content="Auto">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="WhiteBalance">
+						<meta itemprop="value" content="Auto">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="DigitalZoomRatio">
+						<meta itemprop="value" content="1">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="SceneCaptureType">
+						<meta itemprop="value" content="Portrait">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="Padding">
+						<meta itemprop="value" content="(Binary data 2060 bytes, use -b option to extract)">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="OffsetSchema">
+						<meta itemprop="value" content="4192">
+					</div>
+
+ 				</td></tr>
+				<tr>
+					<th colspan="2" class="exifhtml">File</th>
+				</tr>
+				<tr>
+					<td class="exifhtml_name">FileType</td>
+					<td class="exifhtml_value">JPEG</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">FileTypeExtension</td>
+					<td class="exifhtml_value">jpg</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">MIMEType</td>
+					<td class="exifhtml_value">image/jpeg</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">ExifByteOrder</td>
+					<td class="exifhtml_value">Big-endian (Motorola, MM)</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">ImageWidth</td>
+					<td class="exifhtml_value">2592</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">ImageHeight</td>
+					<td class="exifhtml_value">1944</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">EncodingProcess</td>
+					<td class="exifhtml_value">Baseline DCT, Huffman coding</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">BitsPerSample</td>
+					<td class="exifhtml_value">8</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">ColorComponents</td>
+					<td class="exifhtml_value">3</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">YCbCrSubSampling</td>
+					<td class="exifhtml_value">YCbCr4:2:2 (2 1)</td>
+				</tr>
+
+ 				<tr>
+					<th colspan="2" class="exifhtml">IFD0</th>
+				</tr>
+				<tr>
+					<td class="exifhtml_name">Make</td>
+					<td class="exifhtml_value">Canon</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">Model</td>
+					<td class="exifhtml_value">Canon PowerShot SD30</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">Orientation</td>
+					<td class="exifhtml_value">Horizontal (normal)</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">XResolution</td>
+					<td class="exifhtml_value">180</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">YResolution</td>
+					<td class="exifhtml_value">180</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">ResolutionUnit</td>
+					<td class="exifhtml_value">inches</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">ModifyDate</td>
+					<td class="exifhtml_value">2010:06:06 16:31:25</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">Artist</td>
+					<td class="exifhtml_value">Austin Davis Holiday</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">YCbCrPositioning</td>
+					<td class="exifhtml_value">Centered</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">XPAuthor</td>
+					<td class="exifhtml_value">Austin Davis Holiday</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">Padding</td>
+					<td class="exifhtml_value">(Binary data 1952 bytes, use -b option to extract)</td>
+				</tr>
+
+ 				<tr>
+					<th colspan="2" class="exifhtml">ExifIFD</th>
+				</tr>
+				<tr>
+					<td class="exifhtml_name">ExposureTime</td>
+					<td class="exifhtml_value">1/60</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">FNumber</td>
+					<td class="exifhtml_value">3.2</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">ExifVersion</td>
+					<td class="exifhtml_value">0220</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">DateTimeOriginal</td>
+					<td class="exifhtml_value">2010:06:06 16:31:25</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">CreateDate</td>
+					<td class="exifhtml_value">2010:06:06 16:31:25</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">ComponentsConfiguration</td>
+					<td class="exifhtml_value">Y, Cb, Cr, -</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">CompressedBitsPerPixel</td>
+					<td class="exifhtml_value">5</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">ShutterSpeedValue</td>
+					<td class="exifhtml_value">1/60</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">ApertureValue</td>
+					<td class="exifhtml_value">3.2</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">ExposureCompensation</td>
+					<td class="exifhtml_value">0</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">MaxApertureValue</td>
+					<td class="exifhtml_value">3.2</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">MeteringMode</td>
+					<td class="exifhtml_value">Multi-segment</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">Flash</td>
+					<td class="exifhtml_value">Auto, Fired, Red-eye reduction</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">FocalLength</td>
+					<td class="exifhtml_value">6.3 mm</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">UserComment</td>
+					<td class="exifhtml_value"></td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">FlashpixVersion</td>
+					<td class="exifhtml_value">0100</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">ColorSpace</td>
+					<td class="exifhtml_value">sRGB</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">ExifImageWidth</td>
+					<td class="exifhtml_value">2592</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">ExifImageHeight</td>
+					<td class="exifhtml_value">1944</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">FocalPlaneXResolution</td>
+					<td class="exifhtml_value">11520</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">FocalPlaneYResolution</td>
+					<td class="exifhtml_value">11571.42857</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">FocalPlaneResolutionUnit</td>
+					<td class="exifhtml_value">inches</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">SensingMethod</td>
+					<td class="exifhtml_value">One-chip color area</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">FileSource</td>
+					<td class="exifhtml_value">Digital Camera</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">CustomRendered</td>
+					<td class="exifhtml_value">Normal</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">ExposureMode</td>
+					<td class="exifhtml_value">Auto</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">WhiteBalance</td>
+					<td class="exifhtml_value">Auto</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">DigitalZoomRatio</td>
+					<td class="exifhtml_value">1</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">SceneCaptureType</td>
+					<td class="exifhtml_value">Portrait</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">Padding</td>
+					<td class="exifhtml_value">(Binary data 2060 bytes, use -b option to extract)</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">OffsetSchema</td>
+					<td class="exifhtml_value">4192</td>
+				</tr>
+
+ 				<tr>
+					<th colspan="2" class="exifhtml">Canon</th>
+				</tr>
+				<tr>
+					<td class="exifhtml_name">MacroMode</td>
+					<td class="exifhtml_value">Normal</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">SelfTimer</td>
+					<td class="exifhtml_value">Off</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">Quality</td>
+					<td class="exifhtml_value">Superfine</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">CanonFlashMode</td>
+					<td class="exifhtml_value">Red-eye reduction (Auto)</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">ContinuousDrive</td>
+					<td class="exifhtml_value">Single</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">FocusMode</td>
+					<td class="exifhtml_value">Single</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">RecordMode</td>
+					<td class="exifhtml_value">JPEG</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">CanonImageSize</td>
+					<td class="exifhtml_value">Large</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">EasyMode</td>
+					<td class="exifhtml_value">Portrait</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">DigitalZoom</td>
+					<td class="exifhtml_value">None</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">Contrast</td>
+					<td class="exifhtml_value">Normal</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">Saturation</td>
+					<td class="exifhtml_value">Normal</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">Sharpness</td>
+					<td class="exifhtml_value">0</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">CameraISO</td>
+					<td class="exifhtml_value">Auto</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">MeteringMode</td>
+					<td class="exifhtml_value">Evaluative</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">FocusRange</td>
+					<td class="exifhtml_value">Auto</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">AFPoint</td>
+					<td class="exifhtml_value">Auto AF point selection</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">CanonExposureMode</td>
+					<td class="exifhtml_value">Easy</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">LensType</td>
+					<td class="exifhtml_value">n/a</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">MaxFocalLength</td>
+					<td class="exifhtml_value">14.9 mm</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">MinFocalLength</td>
+					<td class="exifhtml_value">6.3 mm</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">FocalUnits</td>
+					<td class="exifhtml_value">1000/mm</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">MaxAperture</td>
+					<td class="exifhtml_value">3.2</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">MinAperture</td>
+					<td class="exifhtml_value">6.3</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">FlashBits</td>
+					<td class="exifhtml_value">E-TTL, Built-in</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">FocusContinuous</td>
+					<td class="exifhtml_value">Single</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">AESetting</td>
+					<td class="exifhtml_value">Normal AE</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">ZoomSourceWidth</td>
+					<td class="exifhtml_value">2592</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">ZoomTargetWidth</td>
+					<td class="exifhtml_value">2592</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">SpotMeteringMode</td>
+					<td class="exifhtml_value">Center</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">PhotoEffect</td>
+					<td class="exifhtml_value">Off</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">ManualFlashOutput</td>
+					<td class="exifhtml_value">n/a</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">FocalType</td>
+					<td class="exifhtml_value">Zoom</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">FocalLength</td>
+					<td class="exifhtml_value">6.3 mm</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">FocalPlaneXSize</td>
+					<td class="exifhtml_value">5.84 mm</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">FocalPlaneYSize</td>
+					<td class="exifhtml_value">4.37 mm</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">AutoISO</td>
+					<td class="exifhtml_value">283</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">BaseISO</td>
+					<td class="exifhtml_value">50</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">MeasuredEV</td>
+					<td class="exifhtml_value">8.41</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">TargetAperture</td>
+					<td class="exifhtml_value">3.2</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">TargetExposureTime</td>
+					<td class="exifhtml_value">1/60</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">ExposureCompensation</td>
+					<td class="exifhtml_value">0</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">WhiteBalance</td>
+					<td class="exifhtml_value">Auto</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">SlowShutter</td>
+					<td class="exifhtml_value">Off</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">SequenceNumber</td>
+					<td class="exifhtml_value">0</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">OpticalZoomCode</td>
+					<td class="exifhtml_value">0</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">FlashGuideNumber</td>
+					<td class="exifhtml_value">5.03125</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">FlashExposureComp</td>
+					<td class="exifhtml_value">0</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">AutoExposureBracketing</td>
+					<td class="exifhtml_value">Off</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">AEBBracketValue</td>
+					<td class="exifhtml_value">0</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">ControlMode</td>
+					<td class="exifhtml_value">Camera Local Control</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">FocusDistanceUpper</td>
+					<td class="exifhtml_value">0.79 m</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">FocusDistanceLower</td>
+					<td class="exifhtml_value">0 m</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">FNumber</td>
+					<td class="exifhtml_value">3.3</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">ExposureTime</td>
+					<td class="exifhtml_value">1/64</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">BulbDuration</td>
+					<td class="exifhtml_value">0</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">CameraType</td>
+					<td class="exifhtml_value">Compact</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">AutoRotate</td>
+					<td class="exifhtml_value">None</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">NDFilter</td>
+					<td class="exifhtml_value">Off</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">SelfTimer2</td>
+					<td class="exifhtml_value">0</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">FlashOutput</td>
+					<td class="exifhtml_value">600</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">CanonImageType</td>
+					<td class="exifhtml_value">IMG:PowerShot SD30 JPEG</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">CanonFirmwareVersion</td>
+					<td class="exifhtml_value">Firmware Version 1.00</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">FileNumber</td>
+					<td class="exifhtml_value">101-2132</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">OwnerName</td>
+					<td class="exifhtml_value">Ana Isabel Sanchez Ruiz</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">CameraTemperature</td>
+					<td class="exifhtml_value">31 C</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">CanonModelID</td>
+					<td class="exifhtml_value">PowerShot SD30 / Digital IXUS i Zoom / IXY Digital L3</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">NumAFPoints</td>
+					<td class="exifhtml_value">9</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">ValidAFPoints</td>
+					<td class="exifhtml_value">9</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">CanonImageWidth</td>
+					<td class="exifhtml_value">2592</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">CanonImageHeight</td>
+					<td class="exifhtml_value">1944</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">AFImageWidth</td>
+					<td class="exifhtml_value">2592</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">AFImageHeight</td>
+					<td class="exifhtml_value">216</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">AFAreaWidth</td>
+					<td class="exifhtml_value">467</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">AFAreaHeight</td>
+					<td class="exifhtml_value">39</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">AFAreaXPositions</td>
+					<td class="exifhtml_value">-467 0 467 -467 0 467 -467 0 467</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">AFAreaYPositions</td>
+					<td class="exifhtml_value">-42 -42 -42 0 0 0 40 40 40</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">AFPointsInFocus</td>
+					<td class="exifhtml_value">6</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">PrimaryAFPoint</td>
+					<td class="exifhtml_value">6</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">ThumbnailImageValidArea</td>
+					<td class="exifhtml_value">0 0 0 0</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">DateStampMode</td>
+					<td class="exifhtml_value">Off</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">MyColorMode</td>
+					<td class="exifhtml_value">Off</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">FirmwareRevision</td>
+					<td class="exifhtml_value">1.00 rev 6.00</td>
+				</tr>
+
+ 				<tr>
+					<th colspan="2" class="exifhtml">InteropIFD</th>
+				</tr>
+				<tr>
+					<td class="exifhtml_name">InteropVersion</td>
+					<td class="exifhtml_value">0100</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">RelatedImageWidth</td>
+					<td class="exifhtml_value">2592</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">RelatedImageHeight</td>
+					<td class="exifhtml_value">1944</td>
+				</tr>
+
+ 				<tr>
+					<th colspan="2" class="exifhtml">IFD1</th>
+				</tr>
+				<tr>
+					<td class="exifhtml_name">Compression</td>
+					<td class="exifhtml_value">JPEG (old-style)</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">XResolution</td>
+					<td class="exifhtml_value">180</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">YResolution</td>
+					<td class="exifhtml_value">180</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">ResolutionUnit</td>
+					<td class="exifhtml_value">inches</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">ThumbnailOffset</td>
+					<td class="exifhtml_value">6616</td>
+				</tr>
+
+ 				<tr>
+					<td class="exifhtml_name">ThumbnailLength</td>
+					<td class="exifhtml_value">4902</td>
+				</tr>
+
+ 				<tr>
+					<th colspan="2" class="exifhtml">XMP-rdf</th>
+				</tr>
+				<tr>
+					<td class="exifhtml_name">About</td>
+					<td class="exifhtml_value">uuid:faf5bdd5-ba3d-11da-ad31-d33d75182f1b</td>
+				</tr>
+
+ 				<tr>
+					<th colspan="2" class="exifhtml">XMP-dc</th>
+				</tr>
+				<tr>
+					<td class="exifhtml_name">Creator</td>
+					<td class="exifhtml_value">Austin Davis Holiday</td>
+				</tr>
+
+ 

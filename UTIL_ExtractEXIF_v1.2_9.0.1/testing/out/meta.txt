@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Jan 6, 2018, 11:47:10 AM</comment>
+<entry key="Image Description">OLYMPUS DIGITAL CAMERA</entry>
+<entry key="Make">OLYMPUS CORPORATION</entry>
+<entry key="Model">C770UZ</entry>
+<entry key="Orientation">Top, left side (Horizontal / normal)</entry>
+<entry key="X Resolution">72 dots per inch</entry>
+<entry key="Y Resolution">72 dots per inch</entry>
+<entry key="Resolution Unit">Inch</entry>
+<entry key="Software">v772-83</entry>
+<entry key="Date/Time">2006:07:23 15:48:01</entry>
+<entry key="YCbCr Positioning">Datum point</entry>
+<entry key="Windows XP Comment">Here are some comments</entry>
+<entry key="Padding">[2060 values]</entry>
+<entry key="Exposure Time">1/1000 sec</entry>
+<entry key="F-Number">f/3.2</entry>
+<entry key="Exposure Program">Aperture priority</entry>
+<entry key="ISO Speed Ratings">64</entry>
+<entry key="Exif Version">2.20</entry>
+<entry key="Date/Time Original">2006:07:23 15:48:01</entry>
+<entry key="Date/Time Digitized">2006:07:23 15:48:01</entry>
+<entry key="Components Configuration">YCbCr</entry>
+<entry key="Compressed Bits Per Pixel">2 bits/pixel</entry>
+<entry key="Exposure Bias Value">-1.7 EV</entry>
+<entry key="Max Aperture Value">f/3.2</entry>
+<entry key="Metering Mode">Multi-segment</entry>
+<entry key="White Balance">Unknown</entry>
+<entry key="Flash">Flash did not fire, auto</entry>
+<entry key="Focal Length">9.9 mm</entry>
+<entry key="FlashPix Version">1.00</entry>
+<entry key="Color Space">sRGB</entry>
+<entry key="Exif Image Width">2288 pixels</entry>
+<entry key="Exif Image Height">1712 pixels</entry>
+<entry key="File Source">Digital Still Camera (DSC)</entry>
+<entry key="Scene Type">Directly photographed image</entry>
+<entry key="Custom Rendered">Normal process</entry>
+<entry key="Exposure Mode">Manual exposure</entry>
+<entry key="White Balance Mode">Auto white balance</entry>
+<entry key="Digital Zoom Ratio">Digital zoom not used</entry>
+<entry key="Scene Capture Type">Standard</entry>
+<entry key="Gain Control">None</entry>
+<entry key="Contrast">None</entry>
+<entry key="Saturation">None</entry>
+<entry key="Sharpness">None</entry>
+<entry key="Padding">[2060 values]</entry>
+<entry key="Unknown tag (0xea1d)">3610</entry>
+</properties>
+

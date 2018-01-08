@@ -1,0 +1,259 @@
+* {
+	box-sizing: border-box;
+	background-color: black;
+}
+
+#image_next {
+	position: fixed;
+	right: 5px;
+	top: 50%;
+}
+
+#image_prev {
+	position: fixed;
+	left: 5px;
+	top: 50%;
+}
+
+.img_pointer_box {
+	display: inline-block;
+	height: 100%;
+	vertical-align: middle;
+}
+
+.img_pointer_size {
+	vertical-align: middle;
+	max-width: 40px;
+}
+
+IMG.img_thumb {
+	display: block;
+	max-height: 160px;
+	max-width: 210px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: blue;
+}
+
+}
+#footerX {
+	position: absolute;
+	bottom: 0px;
+	height: 20px;
+	left: 0px;
+	right: 0px;
+	text-align: center;
+}
+.footer-center{
+	display: inline-block;
+	left:0px;
+	right:0px;
+	width: 100%;
+	text-align: center;
+}
+#footer{
+	margin-top: 10px;
+}
+div.showText {
+	visibility: visible;
+}
+
+div.hideText {
+	visibility: hidden;
+}
+
+td.large {
+	background: black;
+	color: white;
+	font-family: "Arial";
+	font-size: xx-large;
+}
+td.conftitle {
+	background: silver;
+	color: black;
+	font-family: "Arial";
+	font-size: xx-large;
+	text-align: center;
+	padding: 2px 6px 2px 6px;
+}
+
+th.exifhtml {
+	background: silver;
+	color: black;
+	font-family: "Arial";
+	font-weight: normal;
+	text-align: center;
+	border: solid 1px black
+}
+
+td.exifhtml_name {
+	background: silver;
+	color: black;
+	font-family: "Arial";
+	font-weight: normal;
+	text-align: right;
+	border: solid 1px black
+}
+
+td.exifhtml_value {
+	background: black;
+	color: white;
+	font-family: "Arial";
+	text-align: left;
+	border: solid 1px black
+}
+p.normal {
+	font-family: arial;
+	font-weight: normal;
+	font-size: 12px;
+	color: grey;
+}
+
+p.large {
+	font-family: arial;
+	font-weight: normal;
+	font-size: 20px;
+	color: grey;
+}
+
+p.vlarge {
+	font-family: arial;
+	font-weight: bold;
+	font-size: 40px;
+	color: grey;
+}
+
+p.top {
+	margin-top: 5px;
+}
+
+.button {
+	font: bold 11px Arial;
+	text-decoration: none;
+	background-color: #EEEEEE;
+	color: #333333;
+	padding: 2px 6px 2px 6px;
+	border-top: 1px solid #CCCCCC;
+	border-right: 1px solid #333333;
+	border-bottom: 1px solid #333333;
+	border-left: 1px solid #CCCCCC;
+}
+.gallery-box {
+	position: absolute;
+	left: 50px;
+	right: 50px;
+	top: 20px;
+	bottom: 10px;
+}
+
+.galleries-title {
+	position:  static;
+	margin-top: 30px;;
+	left: 50px;
+	right: 50px;
+	text-align: center;
+	vertical-align: middle;
+}
+.galleries{
+	display: inline-block;
+	text-align: center;
+}
+IMG.img_gallery {
+	display: block;
+	width: 260px;
+	max-height: 260px;
+	max-width: 260px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.thumbnail-box {
+	position: absolute;
+	left: 50px;
+	right: 50px;
+	top: 50px;
+	bottom: 10px;
+}
+
+.thumbnail-title {
+	position: fixed;
+	top: 0px;
+	height: 50px;
+	left: 50px;
+	right: 50px;
+	z-index: 10000;
+	text-align: center;
+}
+
+DIV.mainImg-boundingbox {
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 60px;
+}
+DIV.mainImg-wrapper {
+	position:  static;
+	margin-top: 2px;;
+	left: 0px;
+	right: 0px;
+	text-align: center;
+	vertical-align: middle;
+}
+DIV.mainImg-center{
+	display: inline-block;
+	text-align: center;
+}
+
+
+DIV.sizes{
+	position: absolute;
+	bottom: -10px;
+	height: auto;
+	left: 0px;
+	width: auto;
+}
+
+FIGURE.fmainImg {
+	margin-top: 1px;
+}
+
+IMG.fimainImg {
+	display: block;
+	width: auto;	
+	max-height: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+FIGURE.fthumb {
+	float: left;
+	width: 210px;
+	height: 230px;
+	margin: 10px 10px 10px 10px;
+}
+
+figure a {
+	text-decoration: none;
+	text-align: center;
+}
+
+figcaption {
+	font: 1.1em/normal Arial, Helvetica, sans-serif;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 50px;
+}
+FIGURE.gallery {
+	float: left;
+	width: 280px;
+	height: 280px;
+	margin: 10px 10px 10px 10px;
+}
+input {
+	background-color: grey;
+	font: bold 11px Arial;
+	text-decoration: none;
+	padding: 2px 6px 2px 6px;
+}

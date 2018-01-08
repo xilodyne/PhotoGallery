@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Fri Aug 22 18:59:55 CEST 2008</comment>
+<entry key="ADMIN_PASSWORD">changeme</entry>
+<entry key="HTML_FOREGROUND_COLOR">grey</entry>
+<entry key="HTTPS_REFER">http://[your domain]/gallery</entry>
+<entry key="HTML_BACKGROUND_COLOR">black</entry>
+<entry key="HTML_FOREGROUND_LESS">silver</entry>
+<entry key="ENABLE_SSL">false</entry>
+<entry key="WEB_TITLE">Photo Gallery</entry>
+<entry key="DEBUG">false</entry>
+<entry key="DEBUG_ACCESS">false</entry>
+<entry key="HTTP_REFER">/gallery</entry>
+</properties>

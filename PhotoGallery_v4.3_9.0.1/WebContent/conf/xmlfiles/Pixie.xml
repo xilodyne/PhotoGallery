@@ -1,0 +1,56 @@
+<tomcat_photo_gallery title="Pixie"
+     dir_thumbnails="galleries/thumbnails/Pixie"
+     dir_web="galleries/folders/Pixie"
+     dir_originals="galleries/originals/Pixie"
+     thumbnailsPerRow="4"
+     thumbnailColumnWidth="180">
+ 
+ 
+<photo title="Pixie - #1"
+       date="06/06/2010" 
+       file_thumbnail="20100606-Pixie-1-thumb.JPG"
+       file_web="20100606-Pixie-1.JPG"
+       file_original="20100606-Pixie-1.JPG"
+       file_original_size="2880379" />
+ 
+ 
+<photo title="Pixie Swimming - #1"
+       date="08/03/2010" 
+       file_thumbnail="20100803-PixieSwimming-1-thumb.JPG"
+       file_web="20100803-PixieSwimming-1.JPG"
+       file_original="20100803-PixieSwimming-1.JPG"
+       file_original_size="2534692" />
+ 
+ 
+<photo title="Pixie - #4"
+       date="12/07/2010" 
+       file_thumbnail="20101207-Pixie-4-thumb.JPG"
+       file_web="20101207-Pixie-4.JPG"
+       file_original="20101207-Pixie-4.JPG"
+       file_original_size="4599772" />
+ 
+ 
+<photo title="Pixie Yard Destroyer - #2"
+       date="02/12/2011" 
+       file_thumbnail="20110212-Pixie_YardDestroyer-2-thumb.JPG"
+       file_web="20110212-Pixie_YardDestroyer-2.JPG"
+       file_original="20110212-Pixie_YardDestroyer-2.JPG"
+       file_original_size="2255398" />
+ 
+ 
+<photo title="Pixie"
+       date="06/29/2013" 
+       file_thumbnail="20130629-Pixie-thumb.jpg"
+       file_web="20130629-Pixie.jpg"
+       file_original="20130629-Pixie.jpg"
+       file_original_size="10795864" />
+ 
+ 
+<photo title="Fifi Haircut - #2"
+       date="04/05/2016" 
+       file_thumbnail="20160405-FifiHaircut-2-thumb.jpg"
+       file_web="20160405-FifiHaircut-2.jpg"
+       file_original="20160405-FifiHaircut-2.jpg"
+       file_original_size="7445887" />
+ 
+</tomcat_photo_gallery>

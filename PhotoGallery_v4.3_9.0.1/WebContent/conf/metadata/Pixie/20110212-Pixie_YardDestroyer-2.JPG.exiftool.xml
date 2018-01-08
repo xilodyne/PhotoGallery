@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+<rdf:Description rdf:about='///var/opt/Shared/Photos/Family/Pixie/20110212-Pixie_YardDestroyer-2.JPG'
+  xmlns:et='http://ns.exiftool.ca/1.0/' et:toolkit='Image::ExifTool 10.02'
+  xmlns:ExifTool='http://ns.exiftool.ca/ExifTool/1.0/'
+  xmlns:System='http://ns.exiftool.ca/File/System/1.0/'
+  xmlns:File='http://ns.exiftool.ca/File/1.0/'
+  xmlns:JFIF='http://ns.exiftool.ca/JFIF/JFIF/1.0/'
+  xmlns:IFD0='http://ns.exiftool.ca/EXIF/IFD0/1.0/'
+  xmlns:ExifIFD='http://ns.exiftool.ca/EXIF/ExifIFD/1.0/'
+  xmlns:Canon='http://ns.exiftool.ca/MakerNotes/Canon/1.0/'
+  xmlns:InteropIFD='http://ns.exiftool.ca/EXIF/InteropIFD/1.0/'
+  xmlns:XMP-rdf='http://ns.exiftool.ca/XMP/XMP-rdf/1.0/'
+  xmlns:XMP-xmp='http://ns.exiftool.ca/XMP/XMP-xmp/1.0/'
+  xmlns:XMP-dc='http://ns.exiftool.ca/XMP/XMP-dc/1.0/'
+  xmlns:Composite='http://ns.exiftool.ca/Composite/1.0/'>
+ <ExifTool:ExifToolVersion>10.02</ExifTool:ExifToolVersion>
+ <ExifTool:Warning>[minor] Adjusted MakerNotes base by 4260</ExifTool:Warning>
+ <System:FileName>20110212-Pixie_YardDestroyer-2.JPG</System:FileName>
+ <System:Directory>///var/opt/Shared/Photos/Family/Pixie</System:Directory>
+ <System:FileSize>2.2 MB</System:FileSize>
+ <System:FileModifyDate>2015:11:16 01:24:34-08:00</System:FileModifyDate>
+ <System:FileAccessDate>2016:09:30 10:48:06-07:00</System:FileAccessDate>
+ <System:FileInodeChangeDate>2015:11:16 01:24:34-08:00</System:FileInodeChangeDate>
+ <System:FilePermissions>rwx------</System:FilePermissions>
+ <File:FileType>JPEG</File:FileType>
+ <File:FileTypeExtension>jpg</File:FileTypeExtension>
+ <File:MIMEType>image/jpeg</File:MIMEType>
+ <File:ExifByteOrder>Big-endian (Motorola, MM)</File:ExifByteOrder>
+ <File:ImageWidth>1944</File:ImageWidth>
+ <File:ImageHeight>2592</File:ImageHeight>
+ <File:EncodingProcess>Baseline DCT, Huffman coding</File:EncodingProcess>
+ <File:BitsPerSample>8</File:BitsPerSample>
+ <File:ColorComponents>3</File:ColorComponents>
+ <File:YCbCrSubSampling>YCbCr4:2:0 (2 2)</File:YCbCrSubSampling>
+ <JFIF:JFIFVersion>1.01</JFIF:JFIFVersion>
+ <JFIF:ResolutionUnit>inches</JFIF:ResolutionUnit>
+ <JFIF:XResolution>180</JFIF:XResolution>
+ <JFIF:YResolution>180</JFIF:YResolution>
+ <IFD0:Make>Canon</IFD0:Make>
+ <IFD0:Model>Canon PowerShot SD30</IFD0:Model>
+ <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
+ <IFD0:Software>Microsoft Windows Photo Viewer 6.3.9600.16384</IFD0:Software>
+ <IFD0:ModifyDate>2014:06:19 19:03:56</IFD0:ModifyDate>
+ <IFD0:Artist>Austin Davis Holiday</IFD0:Artist>
+ <IFD0:YCbCrPositioning>Centered</IFD0:YCbCrPositioning>
+ <IFD0:RelatedImageWidth>2592</IFD0:RelatedImageWidth>
+ <IFD0:RelatedImageHeight>1944</IFD0:RelatedImageHeight>
+ <IFD0:XPAuthor>Austin Davis Holiday</IFD0:XPAuthor>
+ <IFD0:Padding>(Binary data 2060 bytes, use -b option to extract)</IFD0:Padding>
+ <ExifIFD:ExposureTime>1/60</ExifIFD:ExposureTime>
+ <ExifIFD:FNumber>3.2</ExifIFD:FNumber>
+ <ExifIFD:ExifVersion>0220</ExifIFD:ExifVersion>
+ <ExifIFD:DateTimeOriginal>2011:02:12 09:57:14</ExifIFD:DateTimeOriginal>
+ <ExifIFD:CreateDate>2011:02:12 09:57:14</ExifIFD:CreateDate>
+ <ExifIFD:ComponentsConfiguration>Y, Cb, Cr, -</ExifIFD:ComponentsConfiguration>
+ <ExifIFD:CompressedBitsPerPixel>5</ExifIFD:CompressedBitsPerPixel>
+ <ExifIFD:ShutterSpeedValue>1/60</ExifIFD:ShutterSpeedValue>
+ <ExifIFD:ApertureValue>3.2</ExifIFD:ApertureValue>
+ <ExifIFD:ExposureCompensation>0</ExifIFD:ExposureCompensation>
+ <ExifIFD:MaxApertureValue>3.2</ExifIFD:MaxApertureValue>
+ <ExifIFD:MeteringMode>Multi-segment</ExifIFD:MeteringMode>
+ <ExifIFD:Flash>Auto, Fired, Red-eye reduction</ExifIFD:Flash>
+ <ExifIFD:FocalLength>6.3 mm</ExifIFD:FocalLength>
+ <ExifIFD:UserComment></ExifIFD:UserComment>
+ <ExifIFD:SubSecTimeOriginal>00</ExifIFD:SubSecTimeOriginal>
+ <ExifIFD:SubSecTimeDigitized>00</ExifIFD:SubSecTimeDigitized>
+ <ExifIFD:FlashpixVersion>0100</ExifIFD:FlashpixVersion>
+ <ExifIFD:ColorSpace>sRGB</ExifIFD:ColorSpace>
+ <ExifIFD:ExifImageWidth>2592</ExifIFD:ExifImageWidth>
+ <ExifIFD:ExifImageHeight>1944</ExifIFD:ExifImageHeight>
+ <ExifIFD:FocalPlaneXResolution>11520</ExifIFD:FocalPlaneXResolution>
+ <ExifIFD:FocalPlaneYResolution>11571.42857</ExifIFD:FocalPlaneYResolution>
+ <ExifIFD:FocalPlaneResolutionUnit>inches</ExifIFD:FocalPlaneResolutionUnit>
+ <ExifIFD:SensingMethod>One-chip color area</ExifIFD:SensingMethod>
+ <ExifIFD:FileSource>Digital Camera</ExifIFD:FileSource>
+ <ExifIFD:CustomRendered>Normal</ExifIFD:CustomRendered>
+ <ExifIFD:ExposureMode>Auto</ExifIFD:ExposureMode>
+ <ExifIFD:WhiteBalance>Auto</ExifIFD:WhiteBalance>
+ <ExifIFD:DigitalZoomRatio>1</ExifIFD:DigitalZoomRatio>
+ <ExifIFD:SceneCaptureType>Portrait</ExifIFD:SceneCaptureType>
+ <ExifIFD:Padding>(Binary data 2060 bytes, use -b option to extract)</ExifIFD:Padding>
+ <ExifIFD:OffsetSchema>4298</ExifIFD:OffsetSchema>
+ <Canon:MacroMode>Normal</Canon:MacroMode>
+ <Canon:SelfTimer>Off</Canon:SelfTimer>
+ <Canon:Quality>Superfine</Canon:Quality>
+ <Canon:CanonFlashMode>Red-eye reduction (Auto)</Canon:CanonFlashMode>
+ <Canon:ContinuousDrive>Single</Canon:ContinuousDrive>
+ <Canon:FocusMode>Single</Canon:FocusMode>
+ <Canon:RecordMode>JPEG</Canon:RecordMode>
+ <Canon:CanonImageSize>Large</Canon:CanonImageSize>
+ <Canon:EasyMode>Portrait</Canon:EasyMode>
+ <Canon:DigitalZoom>None</Canon:DigitalZoom>
+ <Canon:Contrast>Normal</Canon:Contrast>
+ <Canon:Saturation>Normal</Canon:Saturation>
+ <Canon:Sharpness>0</Canon:Sharpness>
+ <Canon:CameraISO>Auto</Canon:CameraISO>
+ <Canon:MeteringMode>Evaluative</Canon:MeteringMode>
+ <Canon:FocusRange>Auto</Canon:FocusRange>
+ <Canon:AFPoint>Manual AF point selection</Canon:AFPoint>
+ <Canon:CanonExposureMode>Easy</Canon:CanonExposureMode>
+ <Canon:LensType>n/a</Canon:LensType>
+ <Canon:MaxFocalLength>14.9 mm</Canon:MaxFocalLength>
+ <Canon:MinFocalLength>6.3 mm</Canon:MinFocalLength>
+ <Canon:FocalUnits>1000/mm</Canon:FocalUnits>
+ <Canon:MaxAperture>3.2</Canon:MaxAperture>
+ <Canon:MinAperture>6.3</Canon:MinAperture>
+ <Canon:FlashBits>E-TTL, Built-in</Canon:FlashBits>
+ <Canon:FocusContinuous>Single</Canon:FocusContinuous>
+ <Canon:AESetting>Normal AE</Canon:AESetting>
+ <Canon:ZoomSourceWidth>2592</Canon:ZoomSourceWidth>
+ <Canon:ZoomTargetWidth>2592</Canon:ZoomTargetWidth>
+ <Canon:SpotMeteringMode>Center</Canon:SpotMeteringMode>
+ <Canon:PhotoEffect>Off</Canon:PhotoEffect>
+ <Canon:ManualFlashOutput>n/a</Canon:ManualFlashOutput>
+ <Canon:FocalType>Zoom</Canon:FocalType>
+ <Canon:FocalLength>6.3 mm</Canon:FocalLength>
+ <Canon:FocalPlaneXSize>5.84 mm</Canon:FocalPlaneXSize>
+ <Canon:FocalPlaneYSize>4.37 mm</Canon:FocalPlaneYSize>
+ <Canon:AutoISO>283</Canon:AutoISO>
+ <Canon:BaseISO>50</Canon:BaseISO>
+ <Canon:MeasuredEV>8.16</Canon:MeasuredEV>
+ <Canon:TargetAperture>3.2</Canon:TargetAperture>
+ <Canon:TargetExposureTime>1/60</Canon:TargetExposureTime>
+ <Canon:ExposureCompensation>0</Canon:ExposureCompensation>
+ <Canon:WhiteBalance>Auto</Canon:WhiteBalance>
+ <Canon:SlowShutter>Off</Canon:SlowShutter>
+ <Canon:SequenceNumber>0</Canon:SequenceNumber>
+ <Canon:OpticalZoomCode>0</Canon:OpticalZoomCode>
+ <Canon:FlashGuideNumber>5.03125</Canon:FlashGuideNumber>
+ <Canon:FlashExposureComp>0</Canon:FlashExposureComp>
+ <Canon:AutoExposureBracketing>Off</Canon:AutoExposureBracketing>
+ <Canon:AEBBracketValue>0</Canon:AEBBracketValue>
+ <Canon:ControlMode>Camera Local Control</Canon:ControlMode>
+ <Canon:FocusDistanceUpper>2.66 m</Canon:FocusDistanceUpper>
+ <Canon:FocusDistanceLower>0 m</Canon:FocusDistanceLower>
+ <Canon:FNumber>3.3</Canon:FNumber>
+ <Canon:ExposureTime>1/64</Canon:ExposureTime>
+ <Canon:BulbDuration>0</Canon:BulbDuration>
+ <Canon:CameraType>Compact</Canon:CameraType>
+ <Canon:AutoRotate>Rotate 90 CW</Canon:AutoRotate>
+ <Canon:NDFilter>Off</Canon:NDFilter>
+ <Canon:SelfTimer2>0</Canon:SelfTimer2>
+ <Canon:FlashOutput>600</Canon:FlashOutput>
+ <Canon:CanonImageType>IMG:PowerShot SD30 JPEG</Canon:CanonImageType>
+ <Canon:CanonFirmwareVersion>Firmware Version 1.00</Canon:CanonFirmwareVersion>
+ <Canon:FileNumber>101-2377</Canon:FileNumber>
+ <Canon:OwnerName>Ana Isabel Sanchez Ruiz</Canon:OwnerName>
+ <Canon:CameraTemperature>26 C</Canon:CameraTemperature>
+ <Canon:CanonModelID>PowerShot SD30 / Digital IXUS i Zoom / IXY Digital L3</Canon:CanonModelID>
+ <Canon:NumAFPoints>9</Canon:NumAFPoints>
+ <Canon:ValidAFPoints>1</Canon:ValidAFPoints>
+ <Canon:CanonImageWidth>2592</Canon:CanonImageWidth>
+ <Canon:CanonImageHeight>1944</Canon:CanonImageHeight>
+ <Canon:AFImageWidth>2592</Canon:AFImageWidth>
+ <Canon:AFImageHeight>216</Canon:AFImageHeight>
+ <Canon:AFAreaWidth>467</Canon:AFAreaWidth>
+ <Canon:AFAreaHeight>39</Canon:AFAreaHeight>
+ <Canon:AFAreaXPositions>0 0 0 0 0 0 0 0 0</Canon:AFAreaXPositions>
+ <Canon:AFAreaYPositions>0 0 0 0 0 0 0 0 0</Canon:AFAreaYPositions>
+ <Canon:AFPointsInFocus>0</Canon:AFPointsInFocus>
+ <Canon:PrimaryAFPoint>0</Canon:PrimaryAFPoint>
+ <Canon:ThumbnailImageValidArea>0 0 0 0</Canon:ThumbnailImageValidArea>
+ <Canon:DateStampMode>Off</Canon:DateStampMode>
+ <Canon:MyColorMode>Off</Canon:MyColorMode>
+ <Canon:FirmwareRevision>1.00 rev 6.00</Canon:FirmwareRevision>
+ <InteropIFD:InteropVersion>0100</InteropIFD:InteropVersion>
+ <XMP-rdf:About>uuid:faf5bdd5-ba3d-11da-ad31-d33d75182f1b</XMP-rdf:About>
+ <XMP-xmp:CreateDate>2011:02:12 09:57:14</XMP-xmp:CreateDate>
+ <XMP-xmp:CreatorTool>Microsoft Windows Photo Viewer 6.3.9600.16384</XMP-xmp:CreatorTool>
+ <XMP-dc:Creator>Austin Davis Holiday</XMP-dc:Creator>
+ <Composite:Aperture>3.2</Composite:Aperture>
+ <Composite:ConditionalFEC>0</Composite:ConditionalFEC>
+ <Composite:DriveMode>Single-frame Shooting</Composite:DriveMode>
+ <Composite:FlashType>Built-In Flash</Composite:FlashType>
+ <Composite:ISO>141</Composite:ISO>
+ <Composite:ImageSize>1944x2592</Composite:ImageSize>
+ <Composite:Lens>6.3 - 14.9 mm</Composite:Lens>
+ <Composite:LensID>Unknown 6-14mm</Composite:LensID>
+ <Composite:Megapixels>5.0</Composite:Megapixels>
+ <Composite:RedEyeReduction>Off</Composite:RedEyeReduction>
+ <Composite:ScaleFactor35efl>6.1</Composite:ScaleFactor35efl>
+ <Composite:ShootingMode>Portrait</Composite:ShootingMode>
+ <Composite:ShutterCurtainHack>1st-curtain sync</Composite:ShutterCurtainHack>
+ <Composite:ShutterSpeed>1/60</Composite:ShutterSpeed>
+ <Composite:SubSecCreateDate>2011:02:12 09:57:14.00</Composite:SubSecCreateDate>
+ <Composite:SubSecDateTimeOriginal>2011:02:12 09:57:14.00</Composite:SubSecDateTimeOriginal>
+ <Composite:CircleOfConfusion>0.005 mm</Composite:CircleOfConfusion>
+ <Composite:DOF>1.95 m (0.87 - 2.82 m)</Composite:DOF>
+ <Composite:FOV>50.4 deg</Composite:FOV>
+ <Composite:FocalLength35efl>6.3 mm (35 mm equivalent: 38.2 mm)</Composite:FocalLength35efl>
+ <Composite:HyperfocalDistance>2.50 m</Composite:HyperfocalDistance>
+ <Composite:Lens35efl>6.3 - 14.9 mm (35 mm equivalent: 38.2 - 90.4 mm)</Composite:Lens35efl>
+ <Composite:LightValue>8.8</Composite:LightValue>
+</rdf:Description>
+</rdf:RDF>

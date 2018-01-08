@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Sun Jan 07 11:07:36 JST 2017</comment>
+<entry key="ACCESS_CODE_FILE">/opt/gallery.app/conf/access.txt</entry>
+<entry key="ACCESS_FILES_FILE">/opt/gallery.app/conf/access_files.property</entry>
+<entry key="GALLERY_DIRECTORY">/opt/gallery.app/xmlfiles</entry>
+<entry key="ACCESS_USERS_FILE">/opt/gallery.app/conf/access_users.property</entry>
+<entry key="USER_PROPERTY_FILE">/opt/gallery.app/conf/gallery_user.property</entry>
+</properties>

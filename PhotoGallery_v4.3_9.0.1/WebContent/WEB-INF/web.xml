@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+  </welcome-file-list>
+  <display-name>Photo Gallery</display-name>
+  <description>
+        Display photos and thumbnails.
+    </description>
+  <servlet>
+    <servlet-name>GalleryServlet</servlet-name>
+    <servlet-class>xilodyne.photo_gallery.Gallery</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>GalleryServlet</servlet-name>
+    <url-pattern>/photo</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>LoginServlet</servlet-name>
+    <servlet-class>xilodyne.photo_gallery.Login</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>LoginServlet</servlet-name>
+    <url-pattern>/login</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>AdminServlet</servlet-name>
+    <servlet-class>xilodyne.photo_gallery.Admin</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>AdminServlet</servlet-name>
+    <url-pattern>/admin</url-pattern>
+  </servlet-mapping>
+  <context-param>
+    <param-name>log4jContextName</param-name>
+    <param-value>PhotoGallery</param-value>
+  </context-param>
+  <context-param>
+    <param-name>log4jConfiguration</param-name>
+    <param-value>file:///C:/Backup/Java/Web/workspace-PhotoGallery/PhotoGallery_v4.3_9.0.1/WebContent/conf/log4j-logging.xml</param-value> 
+    <!-- <param-value>file:///opt/gallery.app/conf/log4j-logging.xml</param-value> -->
+  </context-param>
+</web-app>

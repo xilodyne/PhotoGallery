@@ -1,0 +1,177 @@
+				<tr>
+					<td class="exifhtml_name">Description</td>
+					<td class="exifhtml_value"><span itemprop="description">Pixie, Spanish water dog, before her annual hair cut; Brussels, Belgium</span></td>
+				</tr>
+
+				<tr>
+					<td class="exifhtml_name">Author</td>
+					<td class="exifhtml_value"><span itemprop="author">Austin Davis Holiday</span></td>
+				</tr>
+
+				<tr><td>
+					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="ExposureTime">
+						<meta itemprop="value" content="1/25">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="FNumber">
+						<meta itemprop="value" content="4.1">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="ExposureProgram">
+						<meta itemprop="value" content="Program AE">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="ISO">
+						<meta itemprop="value" content="100">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="ExifVersion">
+						<meta itemprop="value" content="0221">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="DateTimeOriginal">
+						<meta itemprop="value" content="2013:06:29 16:27:35">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="CreateDate">
+						<meta itemprop="value" content="2013:06:29 16:27:35">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="ComponentsConfiguration">
+						<meta itemprop="value" content="Y, Cb, Cr, -">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="CompressedBitsPerPixel">
+						<meta itemprop="value" content="4">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="ExposureCompensation">
+						<meta itemprop="value" content="0">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="MaxApertureValue">
+						<meta itemprop="value" content="3.3">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="MeteringMode">
+						<meta itemprop="value" content="Multi-segment">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="LightSource">
+						<meta itemprop="value" content="Shade">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="Flash">
+						<meta itemprop="value" content="Off, Did not fire">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="FocalLength">
+						<meta itemprop="value" content="10.9 mm">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="FlashpixVersion">
+						<meta itemprop="value" content="0100">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="ColorSpace">
+						<meta itemprop="value" content="sRGB">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="ExifImageWidth">
+						<meta itemprop="value" content="5610">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="ExifImageHeight">
+						<meta itemprop="value" content="7480">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="SensingMethod">
+						<meta itemprop="value" content="One-chip color area">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="FileSource">
+						<meta itemprop="value" content="Digital Camera">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="SceneType">
+						<meta itemprop="value" content="Directly photographed">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="CustomRendered">
+						<meta itemprop="value" content="Normal">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="ExposureMode">
+						<meta itemprop="value" content="Auto">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="WhiteBalance">
+						<meta itemprop="value" content="Manual">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="DigitalZoomRatio">
+						<meta itemprop="value" content="0">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="FocalLengthIn35mmFormat">
+						<meta itemprop="value" content="61 mm">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="SceneCaptureType">
+						<meta itemprop="value" content="Standard">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="GainControl">
+						<meta itemprop="value" content="None">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="Contrast">
+						<meta itemprop="value" content="Normal">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="Saturation">
+						<meta itemprop="value" content="Normal">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="Sharpness">
+						<meta itemprop="value" content="Normal">
+					</div>
+
+ 					<div itemprop="exifData" itemscope itemtype="http://schema.org/PropertyValue">
+						<meta itemprop="name" content="Padding">
+						<meta itemprop="value" content="(Binary data 2060 bytes, use -b option to extract)">
+					</div>
+
+ 				</td></tr>

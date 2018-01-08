@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Jan 6, 2018, 11:47:11 AM</comment>
+<entry key="Make">Panasonic</entry>
+<entry key="Model">DMC-FH20</entry>
+<entry key="Orientation">Top, left side (Horizontal / normal)</entry>
+<entry key="X Resolution">180 dots per inch</entry>
+<entry key="Y Resolution">180 dots per inch</entry>
+<entry key="Resolution Unit">Inch</entry>
+<entry key="Software">Adobe Photoshop 7.0</entry>
+<entry key="Date/Time">2016:10:01 16:29:01</entry>
+<entry key="Artist">Austin Davis Holiday</entry>
+<entry key="YCbCr Positioning">Datum point</entry>
+<entry key="Windows XP Comment">Pixie, Spanish water dog; new hair cut; Tokyo, Japan</entry>
+<entry key="Panasonic Title">[64 values]</entry>
+<entry key="Panasonic Title (2)">[128 values]</entry>
+<entry key="Padding">[2060 values]</entry>
+<entry key="Exposure Time">1/60 sec</entry>
+<entry key="F-Number">f/3.3</entry>
+<entry key="Exposure Program">Program normal</entry>
+<entry key="ISO Speed Ratings">400</entry>
+<entry key="Exif Version">2.21</entry>
+<entry key="Date/Time Original">2016:04:05 08:52:40</entry>
+<entry key="Date/Time Digitized">2016:04:05 08:52:40</entry>
+<entry key="Components Configuration">YCbCr</entry>
+<entry key="Compressed Bits Per Pixel">4 bits/pixel</entry>
+<entry key="Exposure Bias Value">0 EV</entry>
+<entry key="Max Aperture Value">f/3.3</entry>
+<entry key="Metering Mode">Multi-segment</entry>
+<entry key="White Balance">Flash</entry>
+<entry key="Flash">Flash fired</entry>
+<entry key="Focal Length">5 mm</entry>
+<entry key="FlashPix Version">1.00</entry>
+<entry key="Color Space">sRGB</entry>
+<entry key="Exif Image Width">3672 pixels</entry>
+<entry key="Exif Image Height">4543 pixels</entry>
+<entry key="Sensing Method">One-chip color area sensor</entry>
+<entry key="File Source">Digital Still Camera (DSC)</entry>
+<entry key="Scene Type">Directly photographed image</entry>
+<entry key="Custom Rendered">Normal process</entry>
+<entry key="Exposure Mode">Auto exposure</entry>
+<entry key="White Balance Mode">Manual white balance</entry>
+<entry key="Digital Zoom Ratio">Digital zoom not used</entry>
+<entry key="Focal Length 35">28 mm</entry>
+<entry key="Scene Capture Type">Standard</entry>
+<entry key="Gain Control">Low gain down</entry>
+<entry key="Contrast">None</entry>
+<entry key="Saturation">None</entry>
+<entry key="Sharpness">None</entry>
+<entry key="Padding">[2060 values]</entry>
+</properties>
+

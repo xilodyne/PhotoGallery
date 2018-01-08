@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+<rdf:Description rdf:about='///var/opt/Shared/Photos/Places/Europe/EU-CH-Switzerland/EU-CH-Matterhorn/20060723-Observatory.jpg'
+  xmlns:et='http://ns.exiftool.ca/1.0/' et:toolkit='Image::ExifTool 10.02'
+  xmlns:ExifTool='http://ns.exiftool.ca/ExifTool/1.0/'
+  xmlns:System='http://ns.exiftool.ca/File/System/1.0/'
+  xmlns:File='http://ns.exiftool.ca/File/1.0/'
+  xmlns:JFIF='http://ns.exiftool.ca/JFIF/JFIF/1.0/'
+  xmlns:Adobe='http://ns.exiftool.ca/APP14/Adobe/1.0/'
+  xmlns:IFD0='http://ns.exiftool.ca/EXIF/IFD0/1.0/'
+  xmlns:ExifIFD='http://ns.exiftool.ca/EXIF/ExifIFD/1.0/'
+  xmlns:PrintIM='http://ns.exiftool.ca/PrintIM/PrintIM/1.0/'
+  xmlns:IFD1='http://ns.exiftool.ca/EXIF/IFD1/1.0/'
+  xmlns:IPTC='http://ns.exiftool.ca/IPTC/IPTC/1.0/'
+  xmlns:Photoshop='http://ns.exiftool.ca/Photoshop/Photoshop/1.0/'
+  xmlns:XMP-x='http://ns.exiftool.ca/XMP/XMP-x/1.0/'
+  xmlns:XMP-xmpMM='http://ns.exiftool.ca/XMP/XMP-xmpMM/1.0/'
+  xmlns:XMP-dc='http://ns.exiftool.ca/XMP/XMP-dc/1.0/'
+  xmlns:XMP-xmp='http://ns.exiftool.ca/XMP/XMP-xmp/1.0/'
+  xmlns:XMP-tiff='http://ns.exiftool.ca/XMP/XMP-tiff/1.0/'
+  xmlns:XMP-exif='http://ns.exiftool.ca/XMP/XMP-exif/1.0/'
+  xmlns:ICC-header='http://ns.exiftool.ca/ICC_Profile/ICC-header/1.0/'
+  xmlns:ICC_Profile='http://ns.exiftool.ca/ICC_Profile/ICC_Profile/1.0/'
+  xmlns:ICC-view='http://ns.exiftool.ca/ICC_Profile/ICC-view/1.0/'
+  xmlns:ICC-meas='http://ns.exiftool.ca/ICC_Profile/ICC-meas/1.0/'
+  xmlns:Composite='http://ns.exiftool.ca/Composite/1.0/'>
+ <ExifTool:ExifToolVersion>10.02</ExifTool:ExifToolVersion>
+ <System:FileName>20060723-Observatory.jpg</System:FileName>
+ <System:Directory>///var/opt/Shared/Photos/Places/Europe/EU-CH-Switzerland/EU-CH-Matterhorn</System:Directory>
+ <System:FileSize>1055 kB</System:FileSize>
+ <System:FileModifyDate>2013:03:10 10:47:28-07:00</System:FileModifyDate>
+ <System:FileAccessDate>2015:03:12 13:39:22-07:00</System:FileAccessDate>
+ <System:FileInodeChangeDate>2015:03:17 14:58:09-07:00</System:FileInodeChangeDate>
+ <System:FilePermissions>rwx------</System:FilePermissions>
+ <File:FileType>JPEG</File:FileType>
+ <File:FileTypeExtension>jpg</File:FileTypeExtension>
+ <File:MIMEType>image/jpeg</File:MIMEType>
+ <File:ExifByteOrder>Big-endian (Motorola, MM)</File:ExifByteOrder>
+ <File:CurrentIPTCDigest>c4e96f857423d47899fd9afd51692a9d</File:CurrentIPTCDigest>
+ <File:ImageWidth>2288</File:ImageWidth>
+ <File:ImageHeight>1712</File:ImageHeight>
+ <File:EncodingProcess>Baseline DCT, Huffman coding</File:EncodingProcess>
+ <File:BitsPerSample>8</File:BitsPerSample>
+ <File:ColorComponents>3</File:ColorComponents>
+ <File:YCbCrSubSampling>YCbCr4:2:0 (2 2)</File:YCbCrSubSampling>
+ <JFIF:JFIFVersion>1.01</JFIF:JFIFVersion>
+ <JFIF:ResolutionUnit>inches</JFIF:ResolutionUnit>
+ <JFIF:XResolution>72</JFIF:XResolution>
+ <JFIF:YResolution>72</JFIF:YResolution>
+ <Adobe:DCTEncodeVersion>100</Adobe:DCTEncodeVersion>
+ <Adobe:APP14Flags0>(none)</Adobe:APP14Flags0>
+ <Adobe:APP14Flags1>(none)</Adobe:APP14Flags1>
+ <Adobe:ColorTransform>YCbCr</Adobe:ColorTransform>
+ <IFD0:ImageDescription>OLYMPUS DIGITAL CAMERA         </IFD0:ImageDescription>
+ <IFD0:Make>OLYMPUS CORPORATION</IFD0:Make>
+ <IFD0:Model>C770UZ</IFD0:Model>
+ <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
+ <IFD0:XResolution>72</IFD0:XResolution>
+ <IFD0:YResolution>72</IFD0:YResolution>
+ <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
+ <IFD0:Software>Microsoft Windows Photo Gallery 6.0.6001.18000</IFD0:Software>
+ <IFD0:ModifyDate>2008:04:27 00:42:13</IFD0:ModifyDate>
+ <IFD0:Artist>Brian King</IFD0:Artist>
+ <IFD0:YCbCrPositioning>Co-sited</IFD0:YCbCrPositioning>
+ <IFD0:XPComment>Matterhorn Obersvation point; Brian King, Austin Davis Holiday; Switzerland</IFD0:XPComment>
+ <IFD0:XPAuthor>Brian King</IFD0:XPAuthor>
+ <IFD0:Padding>(Binary data 1896 bytes, use -b option to extract)</IFD0:Padding>
+ <ExifIFD:ExposureTime>1/640</ExifIFD:ExposureTime>
+ <ExifIFD:FNumber>5.0</ExifIFD:FNumber>
+ <ExifIFD:ExposureProgram>Creative (Slow speed)</ExifIFD:ExposureProgram>
+ <ExifIFD:ISO>64</ExifIFD:ISO>
+ <ExifIFD:ExifVersion>0220</ExifIFD:ExifVersion>
+ <ExifIFD:DateTimeOriginal>2006:07:23 14:43:25</ExifIFD:DateTimeOriginal>
+ <ExifIFD:CreateDate>2006:07:23 14:43:25</ExifIFD:CreateDate>
+ <ExifIFD:ComponentsConfiguration>Y, Cb, Cr, -</ExifIFD:ComponentsConfiguration>
+ <ExifIFD:CompressedBitsPerPixel>2</ExifIFD:CompressedBitsPerPixel>
+ <ExifIFD:ExposureCompensation>0</ExifIFD:ExposureCompensation>
+ <ExifIFD:MaxApertureValue>2.8</ExifIFD:MaxApertureValue>
+ <ExifIFD:MeteringMode>Multi-segment</ExifIFD:MeteringMode>
+ <ExifIFD:LightSource>Unknown</ExifIFD:LightSource>
+ <ExifIFD:Flash>Off, Did not fire</ExifIFD:Flash>
+ <ExifIFD:FocalLength>6.3 mm</ExifIFD:FocalLength>
+ <ExifIFD:FlashpixVersion>0100</ExifIFD:FlashpixVersion>
+ <ExifIFD:ColorSpace>sRGB</ExifIFD:ColorSpace>
+ <ExifIFD:ExifImageWidth>2288</ExifIFD:ExifImageWidth>
+ <ExifIFD:ExifImageHeight>1712</ExifIFD:ExifImageHeight>
+ <ExifIFD:FileSource>Digital Camera</ExifIFD:FileSource>
+ <ExifIFD:SceneType>Directly photographed</ExifIFD:SceneType>
+ <ExifIFD:CustomRendered>Normal</ExifIFD:CustomRendered>
+ <ExifIFD:ExposureMode>Auto</ExifIFD:ExposureMode>
+ <ExifIFD:WhiteBalance>Auto</ExifIFD:WhiteBalance>
+ <ExifIFD:DigitalZoomRatio>0</ExifIFD:DigitalZoomRatio>
+ <ExifIFD:SceneCaptureType>Standard</ExifIFD:SceneCaptureType>
+ <ExifIFD:GainControl>None</ExifIFD:GainControl>
+ <ExifIFD:Contrast>Normal</ExifIFD:Contrast>
+ <ExifIFD:Saturation>Normal</ExifIFD:Saturation>
+ <ExifIFD:Sharpness>Normal</ExifIFD:Sharpness>
+ <ExifIFD:ImageUniqueID>BCCD748CD0424D5D96221DA811694E4B</ExifIFD:ImageUniqueID>
+ <ExifIFD:Padding>(Binary data 2072 bytes, use -b option to extract)</ExifIFD:Padding>
+ <PrintIM:PrintIMVersion>0250</PrintIM:PrintIMVersion>
+ <IFD1:Compression>JPEG (old-style)</IFD1:Compression>
+ <IFD1:XResolution>96</IFD1:XResolution>
+ <IFD1:YResolution>96</IFD1:YResolution>
+ <IFD1:ResolutionUnit>inches</IFD1:ResolutionUnit>
+ <IFD1:ThumbnailOffset>5626</IFD1:ThumbnailOffset>
+ <IFD1:ThumbnailLength>2399</IFD1:ThumbnailLength>
+ <IPTC:CodedCharacterSet>UTF8</IPTC:CodedCharacterSet>
+ <IPTC:ApplicationRecordVersion>2</IPTC:ApplicationRecordVersion>
+ <IPTC:Caption-Abstract>OLYMPUS DIGITAL CAMERA         </IPTC:Caption-Abstract>
+ <IPTC:OriginatingProgram>Microsoft Windows Photo Gallery 6.0.6001.18000</IPTC:OriginatingProgram>
+ <IPTC:By-line>Brian King</IPTC:By-line>
+ <Photoshop:IPTCDigest>c4e96f857423d47899fd9afd51692a9d</Photoshop:IPTCDigest>
+ <Photoshop:XResolution>72</Photoshop:XResolution>
+ <Photoshop:DisplayedUnitsX>inches</Photoshop:DisplayedUnitsX>
+ <Photoshop:YResolution>72</Photoshop:YResolution>
+ <Photoshop:DisplayedUnitsY>inches</Photoshop:DisplayedUnitsY>
+ <Photoshop:GlobalAngle>30</Photoshop:GlobalAngle>
+ <Photoshop:GlobalAltitude>30</Photoshop:GlobalAltitude>
+ <Photoshop:CopyrightFlag>False</Photoshop:CopyrightFlag>
+ <Photoshop:PhotoshopThumbnail>(Binary data 4745 bytes, use -b option to extract)</Photoshop:PhotoshopThumbnail>
+ <Photoshop:PhotoshopQuality>10</Photoshop:PhotoshopQuality>
+ <Photoshop:PhotoshopFormat>Standard</Photoshop:PhotoshopFormat>
+ <Photoshop:ProgressiveScans>3 Scans</Photoshop:ProgressiveScans>
+ <XMP-x:XMPToolkit>XMP toolkit 2.8.2-33, framework 1.5</XMP-x:XMPToolkit>
+ <XMP-xmpMM:DocumentID>adobe:docid:photoshop:c44b5356-3a11-11db-9697-a7a5af72bd07</XMP-xmpMM:DocumentID>
+ <XMP-dc:Description>OLYMPUS DIGITAL CAMERA         </XMP-dc:Description>
+ <XMP-dc:Creator>Brian King</XMP-dc:Creator>
+ <XMP-xmp:Creatortool>Microsoft Windows Photo Gallery 6.0.6001.18000</XMP-xmp:Creatortool>
+ <XMP-tiff:Software>Microsoft Windows Photo Gallery 6.0.6001.18000</XMP-tiff:Software>
+ <XMP-tiff:Orientation>Horizontal (normal)</XMP-tiff:Orientation>
+ <XMP-exif:ImageUniqueID>BCCD748CD0424D5D96221DA811694E4B</XMP-exif:ImageUniqueID>
+ <ICC-header:ProfileCMMType>Lino</ICC-header:ProfileCMMType>
+ <ICC-header:ProfileVersion>2.1.0</ICC-header:ProfileVersion>
+ <ICC-header:ProfileClass>Display Device Profile</ICC-header:ProfileClass>
+ <ICC-header:ColorSpaceData>RGB </ICC-header:ColorSpaceData>
+ <ICC-header:ProfileConnectionSpace>XYZ </ICC-header:ProfileConnectionSpace>
+ <ICC-header:ProfileDateTime>1998:02:09 06:49:00</ICC-header:ProfileDateTime>
+ <ICC-header:ProfileFileSignature>acsp</ICC-header:ProfileFileSignature>
+ <ICC-header:PrimaryPlatform>Microsoft Corporation</ICC-header:PrimaryPlatform>
+ <ICC-header:CMMFlags>Not Embedded, Independent</ICC-header:CMMFlags>
+ <ICC-header:DeviceManufacturer>IEC </ICC-header:DeviceManufacturer>
+ <ICC-header:DeviceModel>sRGB</ICC-header:DeviceModel>
+ <ICC-header:DeviceAttributes>Reflective, Glossy, Positive, Color</ICC-header:DeviceAttributes>
+ <ICC-header:RenderingIntent>Perceptual</ICC-header:RenderingIntent>
+ <ICC-header:ConnectionSpaceIlluminant>0.9642 1 0.82491</ICC-header:ConnectionSpaceIlluminant>
+ <ICC-header:ProfileCreator>HP  </ICC-header:ProfileCreator>
+ <ICC-header:ProfileID>0</ICC-header:ProfileID>
+ <ICC_Profile:ProfileCopyright>Copyright (c) 1998 Hewlett-Packard Company</ICC_Profile:ProfileCopyright>
+ <ICC_Profile:ProfileDescription>sRGB IEC61966-2.1</ICC_Profile:ProfileDescription>
+ <ICC_Profile:MediaWhitePoint>0.95045 1 1.08905</ICC_Profile:MediaWhitePoint>
+ <ICC_Profile:MediaBlackPoint>0 0 0</ICC_Profile:MediaBlackPoint>
+ <ICC_Profile:RedMatrixColumn>0.43607 0.22249 0.01392</ICC_Profile:RedMatrixColumn>
+ <ICC_Profile:GreenMatrixColumn>0.38515 0.71687 0.09708</ICC_Profile:GreenMatrixColumn>
+ <ICC_Profile:BlueMatrixColumn>0.14307 0.06061 0.7141</ICC_Profile:BlueMatrixColumn>
+ <ICC_Profile:DeviceMfgDesc>IEC http://www.iec.ch</ICC_Profile:DeviceMfgDesc>
+ <ICC_Profile:DeviceModelDesc>IEC 61966-2.1 Default RGB colour space - sRGB</ICC_Profile:DeviceModelDesc>
+ <ICC_Profile:ViewingCondDesc>Reference Viewing Condition in IEC61966-2.1</ICC_Profile:ViewingCondDesc>
+ <ICC_Profile:Luminance>76.03647 80 87.12462</ICC_Profile:Luminance>
+ <ICC_Profile:Technology>Cathode Ray Tube Display</ICC_Profile:Technology>
+ <ICC_Profile:RedTRC>(Binary data 2060 bytes, use -b option to extract)</ICC_Profile:RedTRC>
+ <ICC_Profile:GreenTRC>(Binary data 2060 bytes, use -b option to extract)</ICC_Profile:GreenTRC>
+ <ICC_Profile:BlueTRC>(Binary data 2060 bytes, use -b option to extract)</ICC_Profile:BlueTRC>
+ <ICC-view:ViewingCondIlluminant>19.6445 20.3718 16.8089</ICC-view:ViewingCondIlluminant>
+ <ICC-view:ViewingCondSurround>3.92889 4.07439 3.36179</ICC-view:ViewingCondSurround>
+ <ICC-view:ViewingCondIlluminantType>D50</ICC-view:ViewingCondIlluminantType>
+ <ICC-meas:MeasurementObserver>CIE 1931</ICC-meas:MeasurementObserver>
+ <ICC-meas:MeasurementBacking>0 0 0</ICC-meas:MeasurementBacking>
+ <ICC-meas:MeasurementGeometry>Unknown</ICC-meas:MeasurementGeometry>
+ <ICC-meas:MeasurementFlare>0.999%</ICC-meas:MeasurementFlare>
+ <ICC-meas:MeasurementIlluminant>D65</ICC-meas:MeasurementIlluminant>
+ <Composite:Aperture>5.0</Composite:Aperture>
+ <Composite:ImageSize>2288x1712</Composite:ImageSize>
+ <Composite:Megapixels>3.9</Composite:Megapixels>
+ <Composite:ShutterSpeed>1/640</Composite:ShutterSpeed>
+ <Composite:ThumbnailImage>(Binary data 2399 bytes, use -b option to extract)</Composite:ThumbnailImage>
+ <Composite:FocalLength35efl>6.3 mm</Composite:FocalLength35efl>
+ <Composite:LightValue>14.6</Composite:LightValue>
+</rdf:Description>
+</rdf:RDF>

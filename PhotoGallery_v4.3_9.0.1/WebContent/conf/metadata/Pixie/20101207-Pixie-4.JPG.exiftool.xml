@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+<rdf:Description rdf:about='///var/opt/Shared/Photos/Family/Pixie/20101207-Pixie-4.JPG'
+  xmlns:et='http://ns.exiftool.ca/1.0/' et:toolkit='Image::ExifTool 10.02'
+  xmlns:ExifTool='http://ns.exiftool.ca/ExifTool/1.0/'
+  xmlns:System='http://ns.exiftool.ca/File/System/1.0/'
+  xmlns:File='http://ns.exiftool.ca/File/1.0/'
+  xmlns:JFIF='http://ns.exiftool.ca/JFIF/JFIF/1.0/'
+  xmlns:IFD0='http://ns.exiftool.ca/EXIF/IFD0/1.0/'
+  xmlns:ExifIFD='http://ns.exiftool.ca/EXIF/ExifIFD/1.0/'
+  xmlns:Panasonic='http://ns.exiftool.ca/MakerNotes/Panasonic/1.0/'
+  xmlns:InteropIFD='http://ns.exiftool.ca/EXIF/InteropIFD/1.0/'
+  xmlns:PrintIM='http://ns.exiftool.ca/PrintIM/PrintIM/1.0/'
+  xmlns:XMP-rdf='http://ns.exiftool.ca/XMP/XMP-rdf/1.0/'
+  xmlns:XMP-xmp='http://ns.exiftool.ca/XMP/XMP-xmp/1.0/'
+  xmlns:XMP-dc='http://ns.exiftool.ca/XMP/XMP-dc/1.0/'
+  xmlns:Composite='http://ns.exiftool.ca/Composite/1.0/'>
+ <ExifTool:ExifToolVersion>10.02</ExifTool:ExifToolVersion>
+ <ExifTool:Warning>[minor] Possibly incorrect maker notes offsets (fix by 3824?)</ExifTool:Warning>
+ <ExifTool:Warning>[minor] Suspicious MakerNotes offset for DataDump</ExifTool:Warning>
+ <System:FileName>20101207-Pixie-4.JPG</System:FileName>
+ <System:Directory>///var/opt/Shared/Photos/Family/Pixie</System:Directory>
+ <System:FileSize>4.4 MB</System:FileSize>
+ <System:FileModifyDate>2015:11:16 01:24:34-08:00</System:FileModifyDate>
+ <System:FileAccessDate>2016:09:30 10:47:40-07:00</System:FileAccessDate>
+ <System:FileInodeChangeDate>2015:11:16 01:24:34-08:00</System:FileInodeChangeDate>
+ <System:FilePermissions>rwx------</System:FilePermissions>
+ <File:FileType>JPEG</File:FileType>
+ <File:FileTypeExtension>jpg</File:FileTypeExtension>
+ <File:MIMEType>image/jpeg</File:MIMEType>
+ <File:ExifByteOrder>Big-endian (Motorola, MM)</File:ExifByteOrder>
+ <File:ImageWidth>3240</File:ImageWidth>
+ <File:ImageHeight>4320</File:ImageHeight>
+ <File:EncodingProcess>Baseline DCT, Huffman coding</File:EncodingProcess>
+ <File:BitsPerSample>8</File:BitsPerSample>
+ <File:ColorComponents>3</File:ColorComponents>
+ <File:YCbCrSubSampling>YCbCr4:2:0 (2 2)</File:YCbCrSubSampling>
+ <JFIF:JFIFVersion>1.01</JFIF:JFIFVersion>
+ <JFIF:ResolutionUnit>inches</JFIF:ResolutionUnit>
+ <JFIF:XResolution>180</JFIF:XResolution>
+ <JFIF:YResolution>180</JFIF:YResolution>
+ <IFD0:Make>Panasonic</IFD0:Make>
+ <IFD0:Model>DMC-FH20</IFD0:Model>
+ <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
+ <IFD0:Software>Microsoft Windows Photo Viewer 6.3.9600.16384</IFD0:Software>
+ <IFD0:ModifyDate>2014:06:19 18:51:38</IFD0:ModifyDate>
+ <IFD0:Artist>Austin Davis Holiday</IFD0:Artist>
+ <IFD0:YCbCrPositioning>Co-sited</IFD0:YCbCrPositioning>
+ <IFD0:XPAuthor>Austin Davis Holiday</IFD0:XPAuthor>
+ <IFD0:Padding>(Binary data 2060 bytes, use -b option to extract)</IFD0:Padding>
+ <ExifIFD:ExposureTime>1/30</ExifIFD:ExposureTime>
+ <ExifIFD:FNumber>3.8</ExifIFD:FNumber>
+ <ExifIFD:ExposureProgram>Program AE</ExifIFD:ExposureProgram>
+ <ExifIFD:ISO>320</ExifIFD:ISO>
+ <ExifIFD:ExifVersion>0221</ExifIFD:ExifVersion>
+ <ExifIFD:DateTimeOriginal>2010:12:07 11:12:19</ExifIFD:DateTimeOriginal>
+ <ExifIFD:CreateDate>2010:12:07 11:12:19</ExifIFD:CreateDate>
+ <ExifIFD:ComponentsConfiguration>Y, Cb, Cr, -</ExifIFD:ComponentsConfiguration>
+ <ExifIFD:CompressedBitsPerPixel>4</ExifIFD:CompressedBitsPerPixel>
+ <ExifIFD:ExposureCompensation>0</ExifIFD:ExposureCompensation>
+ <ExifIFD:MaxApertureValue>3.3</ExifIFD:MaxApertureValue>
+ <ExifIFD:MeteringMode>Multi-segment</ExifIFD:MeteringMode>
+ <ExifIFD:LightSource>Flash</ExifIFD:LightSource>
+ <ExifIFD:Flash>On, Fired</ExifIFD:Flash>
+ <ExifIFD:FocalLength>7.9 mm</ExifIFD:FocalLength>
+ <ExifIFD:SubSecTimeOriginal>00</ExifIFD:SubSecTimeOriginal>
+ <ExifIFD:SubSecTimeDigitized>00</ExifIFD:SubSecTimeDigitized>
+ <ExifIFD:FlashpixVersion>0100</ExifIFD:FlashpixVersion>
+ <ExifIFD:ColorSpace>sRGB</ExifIFD:ColorSpace>
+ <ExifIFD:ExifImageWidth>4320</ExifIFD:ExifImageWidth>
+ <ExifIFD:ExifImageHeight>3240</ExifIFD:ExifImageHeight>
+ <ExifIFD:SensingMethod>One-chip color area</ExifIFD:SensingMethod>
+ <ExifIFD:FileSource>Digital Camera</ExifIFD:FileSource>
+ <ExifIFD:SceneType>Directly photographed</ExifIFD:SceneType>
+ <ExifIFD:CustomRendered>Normal</ExifIFD:CustomRendered>
+ <ExifIFD:ExposureMode>Auto</ExifIFD:ExposureMode>
+ <ExifIFD:WhiteBalance>Auto</ExifIFD:WhiteBalance>
+ <ExifIFD:DigitalZoomRatio>0</ExifIFD:DigitalZoomRatio>
+ <ExifIFD:FocalLengthIn35mmFormat>44 mm</ExifIFD:FocalLengthIn35mmFormat>
+ <ExifIFD:SceneCaptureType>Standard</ExifIFD:SceneCaptureType>
+ <ExifIFD:GainControl>High gain up</ExifIFD:GainControl>
+ <ExifIFD:Contrast>Normal</ExifIFD:Contrast>
+ <ExifIFD:Saturation>Normal</ExifIFD:Saturation>
+ <ExifIFD:Sharpness>Normal</ExifIFD:Sharpness>
+ <ExifIFD:Padding>(Binary data 2060 bytes, use -b option to extract)</ExifIFD:Padding>
+ <ExifIFD:OffsetSchema>4276</ExifIFD:OffsetSchema>
+ <Panasonic:ImageQuality>High</Panasonic:ImageQuality>
+ <Panasonic:FirmwareVersion>0.1.0.0</Panasonic:FirmwareVersion>
+ <Panasonic:WhiteBalance>Auto</Panasonic:WhiteBalance>
+ <Panasonic:FocusMode>Auto</Panasonic:FocusMode>
+ <Panasonic:AFAreaMode>Tracking</Panasonic:AFAreaMode>
+ <Panasonic:ImageStabilization>On, Mode 1</Panasonic:ImageStabilization>
+ <Panasonic:MacroMode>Off</Panasonic:MacroMode>
+ <Panasonic:ShootingMode>Normal</Panasonic:ShootingMode>
+ <Panasonic:Audio>No</Panasonic:Audio>
+ <Panasonic:FlashBias>0</Panasonic:FlashBias>
+ <Panasonic:InternalSerialNumber rdf:datatype='http://www.w3.org/2001/XMLSchema#base64Binary'>
+OQIcAiYCLAJQUlNUuAHoAQ==
+</Panasonic:InternalSerialNumber>
+ <Panasonic:PanasonicExifVersion>0300</Panasonic:PanasonicExifVersion>
+ <Panasonic:ColorEffect>Off</Panasonic:ColorEffect>
+ <Panasonic:TimeSincePowerOn>00:03:12.03</Panasonic:TimeSincePowerOn>
+ <Panasonic:BurstMode>Off</Panasonic:BurstMode>
+ <Panasonic:SequenceNumber>0</Panasonic:SequenceNumber>
+ <Panasonic:ContrastMode>Normal</Panasonic:ContrastMode>
+ <Panasonic:NoiseReduction>Standard</Panasonic:NoiseReduction>
+ <Panasonic:SelfTimer>Off</Panasonic:SelfTimer>
+ <Panasonic:Rotation>Rotate 90 CW</Panasonic:Rotation>
+ <Panasonic:AFAssistLamp>Fired</Panasonic:AFAssistLamp>
+ <Panasonic:ColorMode>Normal</Panasonic:ColorMode>
+ <Panasonic:BabyAge rdf:datatype='http://www.w3.org/2001/XMLSchema#base64Binary'>
+0QHKAagB/w==
+</Panasonic:BabyAge>
+ <Panasonic:OpticalZoomMode>Standard</Panasonic:OpticalZoomMode>
+ <Panasonic:ConversionLens>Off</Panasonic:ConversionLens>
+ <Panasonic:TravelDay>n/a</Panasonic:TravelDay>
+ <Panasonic:WorldTimeLocation>Destination</Panasonic:WorldTimeLocation>
+ <Panasonic:TextStamp>Off</Panasonic:TextStamp>
+ <Panasonic:ProgramISO>Intelligent ISO</Panasonic:ProgramISO>
+ <Panasonic:AdvancedSceneType>1</Panasonic:AdvancedSceneType>
+ <Panasonic:TextStamp>Off</Panasonic:TextStamp>
+ <Panasonic:FacesDetected>0</Panasonic:FacesDetected>
+ <Panasonic:AFPointPosition>1 1.1</Panasonic:AFPointPosition>
+ <Panasonic:NumFacePositions>199</Panasonic:NumFacePositions>
+ <Panasonic:Face1Position>117 171 166 487</Panasonic:Face1Position>
+ <Panasonic:Face2Position>402 179 103 229</Panasonic:Face2Position>
+ <Panasonic:Face3Position>155 74 56 46</Panasonic:Face3Position>
+ <Panasonic:Face4Position>49 63 59 369</Panasonic:Face4Position>
+ <Panasonic:Face5Position>93 62 55 40</Panasonic:Face5Position>
+ <Panasonic:Transform>Off</Panasonic:Transform>
+ <Panasonic:IntelligentExposure>Off</Panasonic:IntelligentExposure>
+ <Panasonic:FlashWarning>No</Panasonic:FlashWarning>
+ <Panasonic:Title>0</Panasonic:Title>
+ <Panasonic:BabyName>0</Panasonic:BabyName>
+ <Panasonic:Location>/</Panasonic:Location>
+ <Panasonic:IntelligentResolution>Off</Panasonic:IntelligentResolution>
+ <Panasonic:MakerNoteVersion>0133</Panasonic:MakerNoteVersion>
+ <Panasonic:SceneMode>Off</Panasonic:SceneMode>
+ <Panasonic:WBRedLevel>1489</Panasonic:WBRedLevel>
+ <Panasonic:WBGreenLevel>1054</Panasonic:WBGreenLevel>
+ <Panasonic:WBBlueLevel>1937</Panasonic:WBBlueLevel>
+ <Panasonic:FlashFired>Yes</Panasonic:FlashFired>
+ <Panasonic:TextStamp>Off</Panasonic:TextStamp>
+ <Panasonic:TextStamp>Off</Panasonic:TextStamp>
+ <Panasonic:BabyAge>n</Panasonic:BabyAge>
+ <Panasonic:Transform>Off</Panasonic:Transform>
+ <InteropIFD:InteropVersion>0100</InteropIFD:InteropVersion>
+ <PrintIM:PrintIMVersion>0250</PrintIM:PrintIMVersion>
+ <XMP-rdf:About>uuid:faf5bdd5-ba3d-11da-ad31-d33d75182f1b</XMP-rdf:About>
+ <XMP-xmp:CreateDate>2010:12:07 11:12:19</XMP-xmp:CreateDate>
+ <XMP-xmp:CreatorTool>Microsoft Windows Photo Viewer 6.3.9600.16384</XMP-xmp:CreatorTool>
+ <XMP-dc:Creator>Austin Davis Holiday</XMP-dc:Creator>
+ <Composite:AdvancedSceneMode>Off</Composite:AdvancedSceneMode>
+ <Composite:Aperture>3.8</Composite:Aperture>
+ <Composite:BlueBalance>1.837761</Composite:BlueBalance>
+ <Composite:ImageSize>3240x4320</Composite:ImageSize>
+ <Composite:Megapixels>14.0</Composite:Megapixels>
+ <Composite:RedBalance>1.412713</Composite:RedBalance>
+ <Composite:ScaleFactor35efl>5.6</Composite:ScaleFactor35efl>
+ <Composite:ShutterSpeed>1/30</Composite:ShutterSpeed>
+ <Composite:SubSecCreateDate>2010:12:07 11:12:19.00</Composite:SubSecCreateDate>
+ <Composite:SubSecDateTimeOriginal>2010:12:07 11:12:19.00</Composite:SubSecDateTimeOriginal>
+ <Composite:CircleOfConfusion>0.005 mm</Composite:CircleOfConfusion>
+ <Composite:FOV>44.5 deg</Composite:FOV>
+ <Composite:FocalLength35efl>7.9 mm (35 mm equivalent: 44.0 mm)</Composite:FocalLength35efl>
+ <Composite:HyperfocalDistance>3.04 m</Composite:HyperfocalDistance>
+ <Composite:LightValue>7.1</Composite:LightValue>
+</rdf:Description>
+</rdf:RDF>

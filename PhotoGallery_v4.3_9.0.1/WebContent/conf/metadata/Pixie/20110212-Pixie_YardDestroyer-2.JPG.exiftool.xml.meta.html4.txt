@@ -1,0 +1,1361 @@
+gallery_user.property (No such file or directory)
+				<tr>
+					<th align="center" colspan="2" bgcolor="null">
+						<font color="null" size="0" face="arial">File</font>
+					</th>
+				</tr>
+				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">FileType</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">JPEG</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">FileTypeExtension</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">jpg</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">MIMEType</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">image/jpeg</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">ExifByteOrder</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Big-endian (Motorola, MM)</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">ImageWidth</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">1944</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">ImageHeight</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">2592</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">EncodingProcess</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Baseline DCT, Huffman coding</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">BitsPerSample</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">8</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">ColorComponents</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">3</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">YCbCrSubSampling</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">YCbCr4:2:0 (2 2)</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="center" colspan="2" bgcolor="null">
+						<font color="null" size="0" face="arial">JFIF</font>
+					</th>
+				</tr>
+				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">JFIFVersion</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">1.01</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">ResolutionUnit</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">inches</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">XResolution</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">180</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">YResolution</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">180</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="center" colspan="2" bgcolor="null">
+						<font color="null" size="0" face="arial">IFD0</font>
+					</th>
+				</tr>
+				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">Make</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Canon</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">Model</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Canon PowerShot SD30</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">Orientation</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Horizontal (normal)</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">Software</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Microsoft Windows Photo Viewer 6.3.9600.16384</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">ModifyDate</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">2014:06:19 19:03:56</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">Artist</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Austin Davis Holiday</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">YCbCrPositioning</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Centered</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">RelatedImageWidth</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">2592</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">RelatedImageHeight</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">1944</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">XPAuthor</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Austin Davis Holiday</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">Padding</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">(Binary data 2060 bytes, use -b option to extract)</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="center" colspan="2" bgcolor="null">
+						<font color="null" size="0" face="arial">ExifIFD</font>
+					</th>
+				</tr>
+				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">ExposureTime</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">1/60</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">FNumber</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">3.2</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">ExifVersion</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">0220</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">DateTimeOriginal</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">2011:02:12 09:57:14</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">CreateDate</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">2011:02:12 09:57:14</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">ComponentsConfiguration</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Y, Cb, Cr, -</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">CompressedBitsPerPixel</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">5</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">ShutterSpeedValue</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">1/60</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">ApertureValue</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">3.2</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">ExposureCompensation</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">0</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">MaxApertureValue</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">3.2</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">MeteringMode</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Multi-segment</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">Flash</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Auto, Fired, Red-eye reduction</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">FocalLength</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">6.3 mm</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">UserComment</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial"></font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">SubSecTimeOriginal</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">00</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">SubSecTimeDigitized</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">00</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">FlashpixVersion</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">0100</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">ColorSpace</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">sRGB</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">ExifImageWidth</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">2592</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">ExifImageHeight</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">1944</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">FocalPlaneXResolution</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">11520</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">FocalPlaneYResolution</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">11571.42857</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">FocalPlaneResolutionUnit</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">inches</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">SensingMethod</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">One-chip color area</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">FileSource</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Digital Camera</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">CustomRendered</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Normal</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">ExposureMode</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Auto</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">WhiteBalance</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Auto</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">DigitalZoomRatio</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">1</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">SceneCaptureType</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Portrait</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">Padding</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">(Binary data 2060 bytes, use -b option to extract)</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">OffsetSchema</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">4298</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="center" colspan="2" bgcolor="null">
+						<font color="null" size="0" face="arial">Canon</font>
+					</th>
+				</tr>
+				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">MacroMode</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Normal</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">SelfTimer</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Off</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">Quality</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Superfine</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">CanonFlashMode</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Red-eye reduction (Auto)</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">ContinuousDrive</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Single</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">FocusMode</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Single</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">RecordMode</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">JPEG</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">CanonImageSize</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Large</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">EasyMode</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Portrait</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">DigitalZoom</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">None</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">Contrast</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Normal</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">Saturation</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Normal</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">Sharpness</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">0</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">CameraISO</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Auto</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">MeteringMode</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Evaluative</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">FocusRange</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Auto</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">AFPoint</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Manual AF point selection</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">CanonExposureMode</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Easy</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">LensType</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">n/a</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">MaxFocalLength</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">14.9 mm</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">MinFocalLength</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">6.3 mm</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">FocalUnits</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">1000/mm</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">MaxAperture</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">3.2</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">MinAperture</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">6.3</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">FlashBits</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">E-TTL, Built-in</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">FocusContinuous</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Single</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">AESetting</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Normal AE</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">ZoomSourceWidth</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">2592</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">ZoomTargetWidth</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">2592</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">SpotMeteringMode</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Center</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">PhotoEffect</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Off</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">ManualFlashOutput</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">n/a</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">FocalType</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Zoom</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">FocalLength</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">6.3 mm</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">FocalPlaneXSize</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">5.84 mm</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">FocalPlaneYSize</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">4.37 mm</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">AutoISO</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">283</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">BaseISO</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">50</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">MeasuredEV</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">8.16</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">TargetAperture</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">3.2</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">TargetExposureTime</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">1/60</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">ExposureCompensation</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">0</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">WhiteBalance</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Auto</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">SlowShutter</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Off</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">SequenceNumber</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">0</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">OpticalZoomCode</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">0</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">FlashGuideNumber</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">5.03125</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">FlashExposureComp</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">0</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">AutoExposureBracketing</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Off</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">AEBBracketValue</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">0</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">ControlMode</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Camera Local Control</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">FocusDistanceUpper</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">2.66 m</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">FocusDistanceLower</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">0 m</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">FNumber</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">3.3</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">ExposureTime</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">1/64</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">BulbDuration</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">0</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">CameraType</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Compact</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">AutoRotate</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Rotate 90 CW</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">NDFilter</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Off</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">SelfTimer2</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">0</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">FlashOutput</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">600</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">CanonImageType</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">IMG:PowerShot SD30 JPEG</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">CanonFirmwareVersion</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Firmware Version 1.00</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">FileNumber</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">101-2377</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">OwnerName</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Ana Isabel Sanchez Ruiz</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">CameraTemperature</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">26 C</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">CanonModelID</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">PowerShot SD30 / Digital IXUS i Zoom / IXY Digital L3</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">NumAFPoints</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">9</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">ValidAFPoints</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">1</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">CanonImageWidth</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">2592</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">CanonImageHeight</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">1944</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">AFImageWidth</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">2592</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">AFImageHeight</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">216</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">AFAreaWidth</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">467</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">AFAreaHeight</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">39</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">AFAreaXPositions</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">0 0 0 0 0 0 0 0 0</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">AFAreaYPositions</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">0 0 0 0 0 0 0 0 0</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">AFPointsInFocus</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">0</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">PrimaryAFPoint</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">0</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">ThumbnailImageValidArea</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">0 0 0 0</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">DateStampMode</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Off</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">MyColorMode</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Off</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">FirmwareRevision</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">1.00 rev 6.00</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="center" colspan="2" bgcolor="null">
+						<font color="null" size="0" face="arial">InteropIFD</font>
+					</th>
+				</tr>
+				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">InteropVersion</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">0100</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="center" colspan="2" bgcolor="null">
+						<font color="null" size="0" face="arial">XMP-rdf</font>
+					</th>
+				</tr>
+				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">About</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">uuid:faf5bdd5-ba3d-11da-ad31-d33d75182f1b</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="center" colspan="2" bgcolor="null">
+						<font color="null" size="0" face="arial">XMP-xmp</font>
+					</th>
+				</tr>
+				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">CreateDate</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">2011:02:12 09:57:14</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">CreatorTool</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Microsoft Windows Photo Viewer 6.3.9600.16384</font>
+					</td>
+				</tr>
+
+ 				<tr>
+					<th align="center" colspan="2" bgcolor="null">
+						<font color="null" size="0" face="arial">XMP-dc</font>
+					</th>
+				</tr>
+				<tr>
+					<th align="right" bgcolor="null">
+						<font color="null" size="1" face="arial">Creator</font>
+					</th>
+					<td>
+						<font color="null" size="0" face="arial">Austin Davis Holiday</font>
+					</td>
+				</tr>
+
+ 

@@ -1,0 +1,80 @@
+<tomcat_photo_gallery title="EU-CH-Matterhorn"
+     dir_thumbnails="galleries/thumbnails/EU-CH-Matterhorn"
+     dir_web="galleries/folders/EU-CH-Matterhorn"
+     dir_originals="galleries/originals/EU-CH-Matterhorn"
+     thumbnailsPerRow="4"
+     thumbnailColumnWidth="180">
+ 
+ 
+<photo title="Cablecar To Summit"
+       date="07/23/2006" 
+       file_thumbnail="20060723-CablecarToSummit-thumb.jpg"
+       file_web="20060723-CablecarToSummit.jpg"
+       file_original="20060723-CablecarToSummit.jpg"
+       file_original_size="1044439" />
+ 
+ 
+<photo title="Matterhorn - #2"
+       date="07/23/2006" 
+       file_thumbnail="20060723-Matterhorn-2-thumb.jpg"
+       file_web="20060723-Matterhorn-2.jpg"
+       file_original="20060723-Matterhorn-2.jpg"
+       file_original_size="1196683" />
+ 
+ 
+<photo title="Observatory"
+       date="07/23/2006" 
+       file_thumbnail="20060723-Observatory-thumb.jpg"
+       file_web="20060723-Observatory.jpg"
+       file_original="20060723-Observatory.jpg"
+       file_original_size="1080553" />
+ 
+ 
+<photo title="Summit Brian Austin"
+       date="07/23/2006" 
+       file_thumbnail="20060723-Summit_BrianAustin-thumb.jpg"
+       file_web="20060723-Summit_BrianAustin.jpg"
+       file_original="20060723-Summit_BrianAustin.jpg"
+       file_original_size="807446" />
+ 
+ 
+<photo title="Summit Brian Little Matterhorn"
+       date="07/23/2006" 
+       file_thumbnail="20060723-Summit_Brian_LittleMatterhorn-thumb.jpg"
+       file_web="20060723-Summit_Brian_LittleMatterhorn.jpg"
+       file_original="20060723-Summit_Brian_LittleMatterhorn.jpg"
+       file_original_size="1504744" />
+ 
+ 
+<photo title="Summit"
+       date="07/23/2006" 
+       file_thumbnail="20060723-Summit-thumb.jpg"
+       file_web="20060723-Summit.jpg"
+       file_original="20060723-Summit.jpg"
+       file_original_size="1175207" />
+ 
+ 
+<photo title="Teva Nation"
+       date="07/23/2006" 
+       file_thumbnail="20060723-TevaNation-thumb.jpg"
+       file_web="20060723-TevaNation.jpg"
+       file_original="20060723-TevaNation.jpg"
+       file_original_size="850738" />
+ 
+ 
+<photo title="View East Zermatt"
+       date="07/23/2006" 
+       file_thumbnail="20060723-ViewEast_Zermatt-thumb.jpg"
+       file_web="20060723-ViewEast_Zermatt.jpg"
+       file_original="20060723-ViewEast_Zermatt.jpg"
+       file_original_size="1216483" />
+ 
+ 
+<photo title="View South - #1"
+       date="07/23/2006" 
+       file_thumbnail="20060723-ViewSouth-1-thumb.jpg"
+       file_web="20060723-ViewSouth-1.jpg"
+       file_original="20060723-ViewSouth-1.jpg"
+       file_original_size="1270487" />
+ 
+</tomcat_photo_gallery>
