@@ -23,11 +23,16 @@ hsqldb-2.4.0	(hsqldb.org)
 All Java development (above) is done in eclipse-jee-oxygen on Windows 10 Pro.
 
 
-## Adding a description and author to photo
+## Scripts for production 
+
+In the ProductionDeploymentFiles directory are the scripts and jars necessary to perform the preprocessing of images and metadata that is used by the PhotoGallery app.  (See the ProductionDeploymentFiles/README\_for\_production.md.)
+
+
+## Adding a description and author to a jpeg photo
 
 PhotoGallery scripts read the jpeg exif data.  
 
-The Description that appears under a photo is the data taken from the jpeg exif tag < IFD0:XPComment>.  This tag contains the data from the Comments: field that appears in the Details Pane of the Windows File Explorer.  To see the Comments field, highlight a jpeg photo, click the Details Pane, enter your data into the field.  Click Save to update the exif of the jpeg.  
+The Description that appears under a photo on the website is the data taken from the jpeg exif tag < IFD0:XPComment>.  This tag contains the data from the Comments: field that appears in the Details Pane of the Windows File Explorer.  To see the Comments field, highlight a jpeg photo, click the Details Pane, enter your data into the field.  Click Save to update the exif of the jpeg.  
 
 The Details Pane field Authors: is used to populate the Author on the website.  No other fields from the Details Pane are used.  However all fields in the exif will appear in the metadata porition under the photo.
 
