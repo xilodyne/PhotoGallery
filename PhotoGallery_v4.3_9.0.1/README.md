@@ -37,5 +37,5 @@ If using Google Analytics, make changes to AssembleHTTP.makeFooter(xilodyne.phot
 ### Create the gallery.war file
 In Eclipse, right click the Project, click export, choose Web -> WAR
 
-See README\_for\_production in Deployment & Scripts for how to setup production environment.
+See README\_for\_production in ProductionDeploymentFiles to setup a production environment.
 
