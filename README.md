@@ -2,7 +2,7 @@
 
 PhotoGallery is a Tomcat application for displaying public and private photos.  Ver 1.0 was written in 2007 to allow me to see my photos on the internet, at that time over DSL via a Windows server in my garage.  It displays both public photos that anyone could view (and download the original photo) and private photos that use an access code.  For an example of a running version, see [PixiePhoto](http://photo.xandus.net/gallery/photo?image=20170929-Pixie.jpg).  Bugs and enhancements are fixed as time permits (which is rarely).  Please let me know if you find any severe issues. 
 
-PhotoGallery only displays jpeg photos.  For generating thumbnails and web photos from the original photos, and metadata EXIF extraction, you'll need scripts to do the preprocessing, which can be found in the ProductionDeploymentFiles.  That directory also includes the production gallery.war file to be deployed on Tomcat.  Be sure to read the README\_for\_production.md.
+PhotoGallery only displays jpeg photos.  For generating thumbnails and web photos from the original photos, and metadata EXIF extraction, you'll need scripts to do the preprocessing, which can be found in the ProductionDeploymentFiles.  That directory also includes the production gallery.war file to be deployed on Tomcat.  Be sure to read the README.md.
 
 
 ## Java Development Components
